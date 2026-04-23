@@ -137,7 +137,72 @@ Generates a 6-card SOP (Standard Operating Procedure) set for new employees at a
 
 ---
 
-### No. 3: Full Page Japanese Manga Example
+### No. 3: Dental Clinic Xiaohongshu Cover Options
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates three distinct cover image options for a dental clinic's Xiaohongshu posts about teeth straightening, focusing on different angles: 'avoiding pitfalls', 'comparing options', and 'showing results'.
+
+#### 📝 Prompt
+
+```
+请直接生成口腔诊所小红书账号最终可发布的 3 张封面图，不要生成“封面改造服务展示页”，不要出现医生和运营人员看方案的画面。
+业务背景：
+诊所原来的笔记内容是“牙齿矫正前需要知道什么”，内容专业但封面太弱，只是一张医生照片加一行小字。现在要把同一篇内容拆成 3 个可测试的封面方向。
+生成目标：
+请生成一张 3 宫格拼版，每一格是一张竖版小红书封面，可单独裁切发布。
+三张封面方向：
+1. 避坑型。
+主题：矫正前别急着交钱，先看关键问题。
+画面：牙齿模型、检查清单、医生专业提示感。
+标题区：可以使用短中文“矫正前先看”。
+2. 对比型。
+主题：不同矫正方案、不同价格、不同适合人群。
+画面：三列方案对比卡片、牙套模型、费用结构图形元素。
+标题区：可以使用短中文“方案怎么选”。
+3. 结果型。
+主题：矫正周期和阶段变化。
+画面：12 个月时间轴、牙齿模型变化示意、复诊节点。
+标题区：可以使用短中文“12个月变化”。
+画面要求：
+- 封面中可以有牙齿模型、费用拆解图、咨询场景、医生讲解图，但不要出现真实患者面部。
+- 不要出现真实患者脸部，不要做夸大疗效。
+- 不要出现大量文字，不要乱码中文。
+- 画面要像真正的小红书封面，信息清楚，第一眼能看懂主题。
+风格：
+专业医疗服务 + 内容增长案例，干净、可信、低营销感。
+色彩：
+白色、浅蓝、青绿色、浅灰、少量暖色。
+避免：
+不要恐怖牙科画面，不要血腥，不要夸张前后对比，不要真实品牌名，不要平台 logo，不要乱码文字。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/1caa0d76d19056b1546faa9a6dfa09fd.png" width="600" alt="Dental Clinic Xiaohongshu Cover Options - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** social-media-post, infographic-edu-visual, illustration
+- **Tags:** dental-clinic, xiaohongshu, cover-design, marketing, healthcare
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-04abef0bac9793f0c8bbabf2)**
+
+---
+
+### No. 4: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -174,7 +239,7 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 4: Japanese Tea Drink Poster
+### No. 5: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -211,7 +276,7 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 5: Realistic Dragon Boat Race Poster
+### No. 6: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -248,7 +313,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 6: Restaurant Menu Design Test
+### No. 7: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -285,7 +350,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 7: South Asian Language Bookstore Display
+### No. 8: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -322,7 +387,7 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
-### No. 8: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 9: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

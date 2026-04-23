@@ -1,0 +1,31 @@
+{
+  "id": "my-23c51b8fd9e3c3eb5b7aa9da",
+  "title": "Restaurant Menu Design Test",
+  "prompt": "Generate a restaurant menu for a Mexican restaurant. The menu should be directly usable in a restaurant setting, with correct spelling, reasonable prices, and neat layout, indistinguishable from AI-generated.",
+  "description": "A test case for ChatGPT Images 2.0 to create a realistic and usable restaurant menu, showcasing its text and layout accuracy.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/dc96fcf21b53e3c100e30d3a50f894bf.webp"
+  ],
+  "categories": [
+    "menu-design",
+    "graphic-design"
+  ],
+  "tags": [
+    "gpt-image-2",
+    "text-rendering",
+    "layout"
+  ],
+  "style": "clean design",
+  "aspectRatio": "3:4",
+  "language": "en",
+  "authorName": "小互",
+  "authorLink": "know",
+  "sourceLink": "https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "23c51b8fd9e3c3eb5b7aa9da",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/ChatGPT Images 2.0 超详细介绍+提示技巧和案例.md",
+  "cleanedAt": "2026-04-23T06:50:39.830Z"
+}

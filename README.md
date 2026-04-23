@@ -6,7 +6,44 @@
 ## 🌱 Img2AI Curated Prompts
 > This section is generated from `data/my/approved/*.json`.
 ## 📋 All Prompts
-### No. 1: South Asian Language Bookstore Display
+### No. 1: Restaurant Menu Design Test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+
+#### 📖 Description
+
+A test case for ChatGPT Images 2.0 to create a realistic and usable restaurant menu, showcasing its text and layout accuracy.
+
+#### 📝 Prompt
+
+```
+Generate a restaurant menu for a Mexican restaurant. The menu should be directly usable in a restaurant setting, with correct spelling, reasonable prices, and neat layout, indistinguishable from AI-generated.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/dc96fcf21b53e3c100e30d3a50f894bf.webp" width="600" alt="Restaurant Menu Design Test - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [小互](know)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
+- **Published:** April 23, 2026
+- **Languages:** en
+- **Categories:** menu-design, graphic-design
+- **Tags:** gpt-image-2, text-rendering, layout
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-23c51b8fd9e3c3eb5b7aa9da)**
+
+---
+
+### No. 2: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 

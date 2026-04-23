@@ -239,7 +239,65 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 5: Japanese Tea Drink Poster
+### No. 5: Industrial Equipment Maintenance SaaS Interface Prototype
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Prototypical interface for an industrial equipment maintenance report generation SaaS. It allows engineers to upload photos, input details, and receive AI-generated reports with issue classification, risk assessment, and repair suggestions, also building a fault case library.
+
+#### 📝 Prompt
+
+```
+请直接生成“工业设备维保图文报告小 SaaS”的最终产品界面原型，不要生成“服务展示图”，不要出现工程师站在旁边看大屏或案例说明画面。
+业务背景：
+工业设备维保公司的一线工程师现场拍很多照片，但报告要手动整理，客户看不懂问题严重程度，主管也无法快速判断高风险工单。现在要用 Codex + image-2 做一个小 SaaS 原型，帮助生成图文维保报告并沉淀故障案例库。
+生成目标：
+请生成一张 16:9 横版 SaaS 产品界面截图风格的原型图，画面应该像真实可用的 B 端系统界面。
+界面模块：
+1. 顶部导航：工单列表、上传照片、报告生成、案例库、数据看板。
+2. 左侧表单区：设备型号、客户名称、现场位置、问题描述、紧急程度。
+3. 中间图片区：上传的设备现场照片，图片上有异常区域标注框。
+4. 右侧 AI 分析区：问题分类、风险等级、整改建议、所需备件。
+5. 底部报告预览区：图文报告、处理建议、导出 PDF 按钮。
+6. 侧边历史案例区：相似故障案例列表。
+画面结构：
+- 要体现这是 B 端业务小系统，不只是图片生成工具。
+- 不要出现人物场景，重点只展示系统界面本身。
+- 中文文字尽量使用短标签，例如“设备型号”“风险等级”“整改建议”“报告预览”“导出 PDF”，不要生成长段乱码。
+风格：
+企业级工业 SaaS 产品界面，清晰、专业、可信，像真实可交付的业务系统原型。
+色彩：
+白色、工业灰、深蓝、青绿色、少量橙色用于风险提示。
+限制：
+不要真实企业 logo，不要真实工厂名称，不要乱码中文，不要过度科幻，不要危险事故画面，不要血腥或灾难场景。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/a085b5a660e5bde0d9ed94f2d4ae38cb.png" width="600" alt="Industrial Equipment Maintenance SaaS Interface Prototype - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** app-web-design, diagram-chart, infographic-edu-visual
+- **Tags:** saas, industrial, maintenance, b2b, ui-ux
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-24fa1b16bba7dfe36de466c9)**
+
+---
+
+### No. 6: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -276,7 +334,7 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 6: Realistic Dragon Boat Race Poster
+### No. 7: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -313,7 +371,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 7: Restaurant Menu Design Test
+### No. 8: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -350,7 +408,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 8: South Asian Language Bookstore Display
+### No. 9: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -387,7 +445,7 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
-### No. 9: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 10: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

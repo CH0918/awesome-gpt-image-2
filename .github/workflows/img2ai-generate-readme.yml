@@ -1,0 +1,55 @@
+name: Img2AI Generate README
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/my/approved/**'
+      - 'scripts/generate-local-readme.ts'
+      - 'scripts/utils/local-prompt.ts'
+      - '.github/workflows/img2ai-generate-readme.yml'
+  schedule:
+    - cron: '30 1 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate README
+        env:
+          UPSTREAM_README_URL: ${{ vars.UPSTREAM_README_URL }}
+          LOCAL_README_OUTPUT: README.md
+        run: pnpm img2ai:generate
+
+      - name: Commit README
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "docs: update Img2AI README"
+          git pull --rebase origin main
+          git push

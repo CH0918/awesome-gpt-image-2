@@ -6,6 +6,10 @@
   color: '#3f74ea'
   description: 'This is a prompt submission.'
 
+- name: needs-review
+  color: '#fbca04'
+  description: 'This prompt was collected automatically and needs human review.'
+
 - name: bug
   color: '#d73a4a'
   description: "Something isn't working"
@@ -41,4 +45,3 @@
 - name: wontfix
   color: '#ffffff'
   description: 'This will not be worked on'
-

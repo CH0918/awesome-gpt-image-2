@@ -1,0 +1,34 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Warhammer 40,000 Character Card and Analysis",
+  "prompt": "基于《战锤 40K》的世界观为我生成一套测试题。然后在结束之后，基于我回答的答案给我生成一个我在《战锤 40K》里的角色卡片和对应的性格分析。",
+  "description": "Generate a Warhammer 40,000 character card and personality analysis based on user answers to a quiz.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/d6d63b970dc3cdc6e3d1437ac9f1a392.webp",
+    "https://img.img2ai.org/img2ai-prompts/677eb71c55b3745d3a10fae4728b059b.png"
+  ],
+  "categories": [
+    "character",
+    "illustration",
+    "profile-avatar"
+  ],
+  "tags": [
+    "warhammer-40k",
+    "character-card",
+    "personality-analysis",
+    "quiz",
+    "user-generated-content"
+  ],
+  "style": "Warhammer 40,000 lore-based, character profile",
+  "aspectRatio": "4:3",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T09:57:33.142Z"
+}

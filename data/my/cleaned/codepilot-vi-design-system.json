@@ -1,0 +1,34 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "CodePilot VI Design System",
+  "prompt": "让他基于这个图片的风格和特色，为我的项目设计一套 VI。主要的项目信息在这里：",
+  "description": "Design a comprehensive VI (visual identity) system for the CodePilot project, based on a provided reference image and project information.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/2fd2b35108d0d077b3c1676d4fd23dad.webp",
+    "https://img.img2ai.org/img2ai-prompts/ffe0a18b9c00398e121d552b86c4da55.webp"
+  ],
+  "categories": [
+    "illustration",
+    "app-web-design",
+    "product-marketing"
+  ],
+  "tags": [
+    "vi-design",
+    "branding",
+    "codepilot",
+    "design-system",
+    "reference-based"
+  ],
+  "style": "Comprehensive VI design system",
+  "aspectRatio": "4:3",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T09:57:33.142Z"
+}

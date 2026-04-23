@@ -257,4 +257,66 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
+### No. 6: Transparent Storage Box E-commerce Detail Page Visuals
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates e-commerce detail page visuals for a transparent storage box, showcasing five different use-case scenarios: dorm closet organization, children's toy storage, kitchen clutter management, moving assistance, and under-bed space optimization.
+
+#### 📝 Prompt
+
+```
+请直接生成透明收纳箱产品最终可用于电商详情页的视觉素材，不要生成“服务展示图”，不要出现设计工作台、案例说明页或素材看板。
+业务背景：
+客户是一家销售家居收纳箱的电商店铺，原来的主图只有白底产品图，看不出使用场景。现在要围绕同一个收纳箱，生成不同人群和使用场景的视觉素材。
+生成目标：
+请生成一张电商详情页长图风格的拼版素材，包含 5 个可裁切的场景图模块：
+模块 1：宿舍衣柜收纳。
+画面：宿舍衣柜、折叠衣物、透明收纳箱、标签分类。
+模块 2：儿童玩具收纳。
+画面：儿童房、玩具分类、透明箱体、家长容易整理的感觉。
+模块 3：厨房杂物收纳。
+画面：厨房柜体、调料或干货分类、箱体防尘整齐。
+模块 4：搬家整理收纳。
+画面：搬家纸箱旁，透明收纳箱帮助分类，物品一眼可见。
+模块 5：小户型床底空间收纳。
+画面：床底空间、透明收纳箱推进床底、空间利用感。
+画面结构：
+- 每个模块都要清晰展示同一款透明收纳箱。
+- 每个模块都预留短标题和卖点说明位置。
+- 可以使用简短中文标题，例如“宿舍收纳”“玩具分类”“厨房整理”“搬家分类”“床底空间”。
+- 不要出现真实品牌名和平台 logo。
+风格：
+干净、实用、偏电商详情页视觉，明亮、可信、转化导向。
+色彩：
+白色、浅灰、浅木色、青绿色、少量黄色强调。
+限制：
+不要真实平台 logo，不要品牌名，不要生成乱码中文，不要让收纳箱变成奢侈品风格，不要画面太乱。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/7ec44359c5b184c06a678c64616ccc70.jpg" width="600" alt="Transparent Storage Box E-commerce Detail Page Visuals - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** ecommerce-main-image, product-marketing, illustration
+- **Tags:** storage-box, ecommerce, product-visuals, home-organization, detail-page
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-f9b3aa3ed3fbf8b279d21110)**
+
+---
+
 <!-- img2ai-local-prompts:end -->

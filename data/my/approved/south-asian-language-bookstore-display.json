@@ -1,0 +1,32 @@
+{
+  "id": "my-63268f544d57ad6fa762c380",
+  "title": "South Asian Language Bookstore Display",
+  "prompt": "Generate a display image for a bookstore, featuring books with spines showing South Asian language text. The typography should look like professionally printed book spines, not just pasted text.",
+  "description": "An image of a bookstore display showcasing the AI's proficiency in rendering South Asian languages as integral design elements on book spines.",
+  "imageUrls": [
+    "![Generated image 1](https://img.img2ai.org/img2ai-prompts/9028ccc44c42e746ac34ba9703d15129.webp)",
+    "https://img.img2ai.org/img2ai-prompts/9028ccc44c42e746ac34ba9703d15129.webp"
+  ],
+  "categories": [
+    "retail-display",
+    "typography"
+  ],
+  "tags": [
+    "gpt-image-2",
+    "indian-languages",
+    "bookstore"
+  ],
+  "style": "photorealistic",
+  "aspectRatio": "16:9",
+  "language": "en",
+  "authorName": "小互",
+  "authorLink": "know",
+  "sourceLink": "https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "63268f544d57ad6fa762c380",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/ChatGPT Images 2.0 超详细介绍+提示技巧和案例.md",
+  "cleanedAt": "2026-04-23T06:37:59.931Z"
+}

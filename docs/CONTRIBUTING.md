@@ -20,8 +20,8 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 2. Fill in the form with all required information
 3. Submit your issue
 4. Team reviews within 48 hours
-5. If approved (we add `approved` label), it automatically syncs to CMS
-6. Your prompt appears in README within 4 hours
+5. If approved (we add the `approved` label), it is converted into local JSON
+6. Your prompt appears in the README after the workflow regenerates it
 
 **Why Issues only?**
 - ✅ Consistent formatting
@@ -85,8 +85,8 @@ By contributing, you agree to:
 1. **Submission** → User creates GitHub Issue
 2. **Review** → Team checks quality (within 48h)
 3. **Approval** → Team adds `approved` label
-4. **Auto-sync** → Workflow triggers, creates prompt in CMS
-5. **README Update** → Appears in README (next 4h update)
+4. **Auto-convert** → Workflow creates `data/my/approved/*.json`
+5. **README Update** → Workflow regenerates README from approved JSON
 
 ## ❓ Questions?
 

@@ -1,197 +1,54 @@
-# 🛠️ Local Development Guide
+# Local Development Guide
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Node.js 20+
-- pnpm (recommended) or npm
-- Access to Payload CMS instance
+- pnpm 9+
 
-## 🚀 Quick Start
-
-### 1. Install Dependencies
+## Install Dependencies
 
 ```bash
 pnpm install
-# or
-npm install
 ```
 
-### 2. Configure Environment Variables
-
-Copy the example file and fill in your credentials:
-
-```bash
-cp .env.example .env
-```
-
-Edit `.env` and add your CMS credentials:
-
-```env
-# Required for all scripts
-CMS_HOST=https://your-cms-host.com
-CMS_API_KEY=your-api-key-here
-```
-
-### 3. Test README Generation
-
-```bash
-pnpm run generate
-# or
-npm run generate
-```
-
-This will:
-- ✅ Load environment variables from `.env` automatically
-- ✅ Fetch prompts from your CMS
-- ✅ Generate `README.md` in the root directory
-
-## 🧪 Testing Issue Sync (Optional)
-
-If you want to test the Issue-to-CMS sync script locally:
-
-### 1. Add GitHub Configuration to `.env`
-
-```env
-# Optional - only for testing sync script
-GITHUB_TOKEN=ghp_your_personal_access_token
-GITHUB_REPOSITORY=YouMind-OpenLab/awesome-gpt-image-2
-ISSUE_NUMBER=123
-ISSUE_BODY="### Prompt Title
-My Awesome Prompt
-
-### Prompt
-Create a beautiful sunset...
-
-### Description
-This prompt generates stunning sunset images...
-"
-```
-
-### 2. Get GitHub Personal Access Token
-
-1. Go to [GitHub Settings → Tokens](https://github.com/settings/tokens)
-2. Click "Generate new token (classic)"
-3. Select scopes: `repo` (full control)
-4. Copy the token to `.env`
-
-### 3. Run Sync Script
-
-```bash
-pnpm run sync
-# or
-npm run sync
-```
-
-## 📝 Available Scripts
+## Available Scripts
 
 | Script | Command | Description |
 |--------|---------|-------------|
-| Generate README | `pnpm run generate` | Fetch prompts and generate README.md |
-| Sync Issue to CMS | `pnpm run sync` | Parse issue and sync to CMS (local testing) |
+| Clean issue data | `pnpm img2ai:clean` | Convert local prompt notes into cleaned issue JSON |
+| Dry-run cleaning | `pnpm img2ai:clean:dry` | Preview cleaned issue JSON without writing final output |
+| Issue to JSON | `pnpm img2ai:issue-to-json` | Convert one GitHub issue body into `data/my/approved/*.json` |
+| Approved batch | `pnpm img2ai:approved-batch` | Convert all open approved prompt issues into local JSON |
+| Generate README | `pnpm img2ai:generate` | Generate `README.md` from `data/my/approved/*.json` |
 
-## 🔧 How dotenv Works
+## Local README Generation
 
-Both scripts now automatically load `.env` via:
+The current project flow is local-file based. Approved prompts are stored as JSON files under:
 
-```typescript
-import 'dotenv/config';
+```text
+data/my/approved/
 ```
 
-This happens **before** any code runs, so `process.env.CMS_HOST` is available immediately.
+Generate the README from those files:
 
-### Environment Variable Priority
-
-1. **System environment variables** (highest priority)
-2. **`.env` file** (loaded by dotenv)
-3. **Default values** (in code, if any)
-
-Example:
 ```bash
-# This overrides .env for this command only
-CMS_HOST=https://staging.cms.com pnpm run generate
+pnpm img2ai:generate
 ```
 
-## 🔐 Security Best Practices
+The script reads `data/my/approved/*.json` and writes `README.md`.
 
-### ✅ DO
-- Keep `.env` in `.gitignore` (already configured)
-- Use `.env.example` for documentation
-- Store production secrets in GitHub Secrets
-- Use different API keys for local/production
+## GitHub Issue Approval Flow
 
-### ❌ DON'T
-- Commit `.env` to git
-- Share your `.env` file
-- Use production credentials locally
-- Hardcode credentials in code
+In GitHub Actions, approved issue processing is handled by:
 
-## 🐛 Troubleshooting
-
-### Error: "CMS API error: 401"
-- Check `CMS_API_KEY` is correct
-- Verify API key has required permissions
-- Ensure CMS_HOST doesn't have trailing slash
-
-### Error: "ISSUE_NUMBER not provided"
-- Only needed for `pnpm run sync`
-- Add `ISSUE_NUMBER=123` to `.env`
-- Or run: `ISSUE_NUMBER=123 pnpm run sync`
-
-### Error: "Failed to fetch image"
-- Check image URL is publicly accessible
-- Verify CMS media upload endpoint is working
-- Try uploading manually to CMS first
-
-## 📚 Project Structure
-
-```
-.
-├── .env                  # Your local config (not in git)
-├── .env.example          # Template for .env
-├── scripts/
-│   ├── generate-readme.ts    # Loads dotenv, generates README
-│   ├── sync-approved-to-cms.ts  # Loads dotenv, syncs issues
-│   └── utils/            # Utility modules
-└── README.md             # Auto-generated (don't edit)
+```text
+.github/workflows/img2ai-approved-issue-to-json.yml
 ```
 
-## 🎯 Workflow
+When an issue has both `approved` and `prompt-submission` labels, the workflow converts it into local JSON, regenerates `README.md`, comments on the issue, and closes it.
 
-### Local Development
-```
-Edit .env → Run script → Test locally
-```
+## Notes
 
-### Production (GitHub Actions)
-```
-Push code → Actions run → Secrets injected → Scripts run
-```
-
-## 💡 Tips
-
-1. **Use different CMS instances**
-   - Local: `CMS_HOST=http://localhost:3000`
-   - Staging: `CMS_HOST=https://staging.cms.com`
-   - Production: Set in GitHub Secrets
-
-2. **Test with dummy data**
-   - Create a test prompt in CMS
-   - Mark it as featured
-   - Run `pnpm run generate`
-   - Check README output
-
-3. **Debug mode**
-   - Add console.logs to scripts
-   - Use TypeScript debugger
-   - Check CMS API responses
-
-## 🆘 Need Help?
-
-- 📖 Check [README_SETUP.md](../README_SETUP.md)
-- 🏗️ Review [PROJECT_OVERVIEW.md](../PROJECT_OVERVIEW.md)
-- 🐛 Report issues on GitHub
-- 💬 Ask in Discussions
-
----
-
-Happy coding! 🚀
+- The project no longer requires external CMS credentials.
+- Do not add `CMS_HOST` or `CMS_API_KEY`; they are not used by the active local JSON workflow.
+- The generated README is derived from repository files, so changes are auditable in git.

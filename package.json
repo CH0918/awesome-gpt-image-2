@@ -4,8 +4,6 @@
   "description": "Curated collection of GPT Image 2 prompts",
   "type": "module",
   "scripts": {
-    "generate": "tsx scripts/generate-readme.ts",
-    "sync": "tsx scripts/sync-approved-to-cms.ts",
     "img2ai:clean": "tsx scripts/clean-obsidian-to-issue.ts",
     "img2ai:clean:dry": "tsx scripts/clean-obsidian-to-issue.ts --dry-run",
     "img2ai:issue-to-json": "tsx scripts/approved-issue-to-json.ts",

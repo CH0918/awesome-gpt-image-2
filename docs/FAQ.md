@@ -8,7 +8,7 @@ GPT Image 2 is Google's latest multimodal AI model capable of generating high-qu
 
 ### What is this repository?
 
-This is a curated collection of creative prompts for GPT Image 2, automatically synced with our CMS and featuring a beautiful web gallery at [youmind.com/gpt-image-2-prompts](https://youmind.com/gpt-image-2-prompts).
+This is a curated collection of creative prompts for GPT Image 2, maintained through GitHub Issues and generated from local approved JSON files.
 
 ## Contributing
 
@@ -22,7 +22,7 @@ No, we only accept submissions via GitHub Issues to ensure quality control and c
 
 ### How long does review take?
 
-We review submissions within 48 hours. If approved, your prompt will automatically appear in the README within 4 hours.
+We review submissions within 48 hours. If approved, your prompt will be converted into local JSON and included in the generated README.
 
 ### Can I submit prompts in languages other than English?
 
@@ -36,11 +36,11 @@ We accept JPEG, PNG, and WebP formats. Images should be at least 512px wide and 
 
 ### How often is the README updated?
 
-The README is automatically updated every 4 hours via GitHub Actions.
+The README is updated by GitHub Actions when approved prompt JSON changes.
 
 ### Where are the images stored?
 
-Images are uploaded to our CMS and served from there. We don't store large images in the Git repository.
+Images are referenced by URL in the approved prompt JSON. Large image binaries are not stored in the Git repository.
 
 ### Can I use these prompts commercially?
 
@@ -49,10 +49,9 @@ All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/b
 ### How is this different from other awesome lists?
 
 We feature:
-- ✅ Automatic updates every 4 hours
-- ✅ Beautiful web gallery with search
+- ✅ Automatic README updates from approved JSON
 - ✅ Multi-language support (17 languages)
-- ✅ CMS-backed content management
+- ✅ GitHub Issue based submissions
 - ✅ Quality-controlled submissions
 
 ## Troubleshooting

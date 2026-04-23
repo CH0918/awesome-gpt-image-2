@@ -1,0 +1,34 @@
+{
+  "id": "my-38ea8707d7476ec35607d8bc",
+  "title": "AI Productivity Course Visual Package",
+  "prompt": "请直接生成《30 天学会 AI 提效》课程最终可使用的课程视觉包装素材，不要生成“服务展示图”，不要出现讲师看后台、课程样机墙或案例说明画面。\n业务背景：\n课程老师已经有完整内容，但课程封面、课件、社群物料都很粗糙。现在需要把课程包装成一个更像产品的视觉体系。\n生成目标：\n请生成一张课程产品视觉拼版，里面包含 5 类最终可裁切使用的课程素材：\n1. 课程主视觉封面。\n主题：《30 天学会 AI 提效》。\n画面：现代办公桌、AI 工作流、任务自动化、效率提升感。\n2. 章节封面。\n展示 7 个章节的小卡片：搜索、写作、表格、PPT、会议、自动化、复盘。\n3. 知识卡片。\n画面：每天一个 AI 办公动作，适合社群发图。\n4. 社群打卡图。\n画面：第 1 天、第 7 天、第 30 天打卡氛围，强调持续学习。\n5. 招生海报。\n画面：适合行政、销售、老板、学生、自由职业者的多角色受众感。\n画面内容：\n- 所有素材要像同一个课程品牌体系。\n- 可以使用短中文标题，例如“AI 提效”“写作”“表格”“自动化”“复盘”。\n- 不要生成真实讲师名字、机构名、价格和二维码。\n设计要求：\n- 不要出现真实课程品牌名称。\n- 中文文字要少，避免乱码；无法保证准确时，用抽象标题线和模块。\n- 画面要表达“把课程从文字材料变成可销售的视觉产品”。\n风格：\n知识付费产品包装、干净、专业、有科技感但不过度炫技。\n色彩：\n白色、深灰、青绿色、浅蓝、少量黄色强调。\n避免：\n不要廉价海报风，不要紫色渐变，不要平台 logo，不要乱码文字，不要过度科幻。",
+  "description": "Generates a visual package for an 'AI Productivity' course, including a main cover, chapter previews, daily knowledge cards, community check-in graphics, and promotional posters targeting various professional roles.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/86129727de4db1e06455593986e09f4a.png"
+  ],
+  "categories": [
+    "infographic-edu-visual",
+    "poster-flyer",
+    "illustration"
+  ],
+  "tags": [
+    "ai-course",
+    "productivity",
+    "visual-design",
+    "e-learning",
+    "marketing-materials"
+  ],
+  "style": "Knowledge paid product packaging, clean, professional, with a sense of technology but not overly flashy.",
+  "aspectRatio": "4:3",
+  "language": "zh",
+  "authorName": "zhm20220917",
+  "authorLink": "https://x.com/zhm20220917",
+  "sourceLink": "https://x.com/zhm20220917/status/2046785295983710312?s=46",
+  "sourcePlatform": "x",
+  "sourceExternalId": "38ea8707d7476ec35607d8bc",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/Image-2发布后普通人年入 50 万的 10 个机会【万字指南】.md",
+  "cleanedAt": "2026-04-23T08:51:31.541Z"
+}

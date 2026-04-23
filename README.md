@@ -6,7 +6,73 @@
 ## 🌱 Img2AI Curated Prompts
 > This section is generated from `data/my/approved/*.json`.
 ## 📋 All Prompts
-### No. 1: Full Page Japanese Manga Example
+### No. 1: AI Productivity Course Visual Package
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a visual package for an 'AI Productivity' course, including a main cover, chapter previews, daily knowledge cards, community check-in graphics, and promotional posters targeting various professional roles.
+
+#### 📝 Prompt
+
+```
+请直接生成《30 天学会 AI 提效》课程最终可使用的课程视觉包装素材，不要生成“服务展示图”，不要出现讲师看后台、课程样机墙或案例说明画面。
+业务背景：
+课程老师已经有完整内容，但课程封面、课件、社群物料都很粗糙。现在需要把课程包装成一个更像产品的视觉体系。
+生成目标：
+请生成一张课程产品视觉拼版，里面包含 5 类最终可裁切使用的课程素材：
+1. 课程主视觉封面。
+主题：《30 天学会 AI 提效》。
+画面：现代办公桌、AI 工作流、任务自动化、效率提升感。
+2. 章节封面。
+展示 7 个章节的小卡片：搜索、写作、表格、PPT、会议、自动化、复盘。
+3. 知识卡片。
+画面：每天一个 AI 办公动作，适合社群发图。
+4. 社群打卡图。
+画面：第 1 天、第 7 天、第 30 天打卡氛围，强调持续学习。
+5. 招生海报。
+画面：适合行政、销售、老板、学生、自由职业者的多角色受众感。
+画面内容：
+- 所有素材要像同一个课程品牌体系。
+- 可以使用短中文标题，例如“AI 提效”“写作”“表格”“自动化”“复盘”。
+- 不要生成真实讲师名字、机构名、价格和二维码。
+设计要求：
+- 不要出现真实课程品牌名称。
+- 中文文字要少，避免乱码；无法保证准确时，用抽象标题线和模块。
+- 画面要表达“把课程从文字材料变成可销售的视觉产品”。
+风格：
+知识付费产品包装、干净、专业、有科技感但不过度炫技。
+色彩：
+白色、深灰、青绿色、浅蓝、少量黄色强调。
+避免：
+不要廉价海报风，不要紫色渐变，不要平台 logo，不要乱码文字，不要过度科幻。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/86129727de4db1e06455593986e09f4a.png" width="600" alt="AI Productivity Course Visual Package - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, poster-flyer, illustration
+- **Tags:** ai-course, productivity, visual-design, e-learning, marketing-materials
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-38ea8707d7476ec35607d8bc)**
+
+---
+
+### No. 2: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -43,7 +109,7 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 2: Japanese Tea Drink Poster
+### No. 3: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -80,7 +146,7 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 3: Realistic Dragon Boat Race Poster
+### No. 4: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -117,7 +183,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 4: Restaurant Menu Design Test
+### No. 5: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -154,7 +220,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 5: South Asian Language Bookstore Display
+### No. 6: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 

@@ -6,7 +6,44 @@
 ## 🌱 Img2AI Curated Prompts
 > This section is generated from `data/my/approved/*.json`.
 ## 📋 All Prompts
-### No. 1: Realistic Dragon Boat Race Poster
+### No. 1: Japanese Tea Drink Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+
+#### 📖 Description
+
+A poster advertising a Japanese tea drink, designed with aesthetic appeal.
+
+#### 📝 Prompt
+
+```
+Generate a poster for a Japanese tea drink.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/9ed8e08abb2a12719dd4ec3e26615ade.webp" width="600" alt="Japanese Tea Drink Poster - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [小互](know)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
+- **Published:** April 23, 2026
+- **Languages:** en
+- **Categories:** poster, advertisement
+- **Tags:** gpt-image-2, japanese-tea, graphic-design
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-93db9557783f847b4255c298)**
+
+---
+
+### No. 2: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -43,7 +80,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 2: Restaurant Menu Design Test
+### No. 3: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -80,7 +117,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 3: South Asian Language Bookstore Display
+### No. 4: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 

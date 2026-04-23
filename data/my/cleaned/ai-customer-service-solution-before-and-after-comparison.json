@@ -1,0 +1,34 @@
+{
+  "id": "my-9ab19e6fdf21af49017559ea",
+  "title": "AI Customer Service Solution Before-and-After Comparison",
+  "prompt": "请直接生成企业 AI 客服公司的售前 PPT 方案页，不要生成“服务展示图”，不要出现会议室、销售人员、设计人员或案例说明画面。\n业务背景：\n客户原来的售前 PPT 只写能力清单：知识库问答、多轮对话、工单流转、数据分析。潜在客户看完没有感觉。现在要把方案改成“改造前后对比图”，让客户一眼看懂业务价值。\n生成目标：\n请生成一张 16:9 横版 B2B 售前方案页，主题是“AI 客服改造前后对比”。这张图应当能直接放进 PPT。\n画面结构：\n左侧：改造前。\n表现客户问题散落在电话、聊天、网页表单；客服重复回答；问题无法沉淀；主管只能事后看结果。\n中间：AI 客服流程中枢。\n包含问题识别、知识库回答、人工转接、工单流转、数据看板五个节点。\n右侧：改造后。\n表现标准问题自动回答、复杂问题转人工、工单自动进入系统、高频问题沉淀成知识、主管每周看到问题排行榜。\n展示方式：\n- 用流程图、业务节点、箭头、系统看板和少量人物小图标结合。\n- 不要出现真实企业 logo。\n- 可以使用短中文标签，例如“改造前”“AI中枢”“改造后”“知识库”“工单”“数据看板”，不要写长段文字。\n风格：\n企业级 SaaS 售前方案图，专业、清晰、可信，适合放进 PPT。\n色彩：\n白色、石墨灰、企业蓝、青绿色、少量橙色强调风险点。\n限制：\n不要过度科幻，不要黑底大屏，不要乱码中文，不要真实平台 logo。",
+  "description": "Generates a B2B pre-sales presentation slide comparing traditional customer service with an AI-powered solution for an AI customer service company. It visualizes the improvements in issue resolution, data management, and efficiency.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/68d97ecd758b2b0abf5190e64eb12148.png"
+  ],
+  "categories": [
+    "infographic-edu-visual",
+    "app-web-design",
+    "diagram-chart"
+  ],
+  "tags": [
+    "b2b",
+    "ai-customer-service",
+    "pre-sales",
+    "infographic",
+    "comparison"
+  ],
+  "style": "Enterprise-grade SaaS pre-sales diagram, professional, clear, credible, suitable for PPT.",
+  "aspectRatio": "16:9",
+  "language": "zh",
+  "authorName": "zhm20220917",
+  "authorLink": "https://x.com/zhm20220917",
+  "sourceLink": "https://x.com/zhm20220917/status/2046785295983710312?s=46",
+  "sourcePlatform": "x",
+  "sourceExternalId": "9ab19e6fdf21af49017559ea",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/Image-2发布后普通人年入 50 万的 10 个机会【万字指南】.md",
+  "cleanedAt": "2026-04-23T08:48:07.429Z"
+}

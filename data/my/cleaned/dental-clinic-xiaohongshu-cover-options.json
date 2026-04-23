@@ -1,0 +1,34 @@
+{
+  "id": "my-04abef0bac9793f0c8bbabf2",
+  "title": "Dental Clinic Xiaohongshu Cover Options",
+  "prompt": "请直接生成口腔诊所小红书账号最终可发布的 3 张封面图，不要生成“封面改造服务展示页”，不要出现医生和运营人员看方案的画面。\n业务背景：\n诊所原来的笔记内容是“牙齿矫正前需要知道什么”，内容专业但封面太弱，只是一张医生照片加一行小字。现在要把同一篇内容拆成 3 个可测试的封面方向。\n生成目标：\n请生成一张 3 宫格拼版，每一格是一张竖版小红书封面，可单独裁切发布。\n三张封面方向：\n1. 避坑型。\n主题：矫正前别急着交钱，先看关键问题。\n画面：牙齿模型、检查清单、医生专业提示感。\n标题区：可以使用短中文“矫正前先看”。\n2. 对比型。\n主题：不同矫正方案、不同价格、不同适合人群。\n画面：三列方案对比卡片、牙套模型、费用结构图形元素。\n标题区：可以使用短中文“方案怎么选”。\n3. 结果型。\n主题：矫正周期和阶段变化。\n画面：12 个月时间轴、牙齿模型变化示意、复诊节点。\n标题区：可以使用短中文“12个月变化”。\n画面要求：\n- 封面中可以有牙齿模型、费用拆解图、咨询场景、医生讲解图，但不要出现真实患者面部。\n- 不要出现真实患者脸部，不要做夸大疗效。\n- 不要出现大量文字，不要乱码中文。\n- 画面要像真正的小红书封面，信息清楚，第一眼能看懂主题。\n风格：\n专业医疗服务 + 内容增长案例，干净、可信、低营销感。\n色彩：\n白色、浅蓝、青绿色、浅灰、少量暖色。\n避免：\n不要恐怖牙科画面，不要血腥，不要夸张前后对比，不要真实品牌名，不要平台 logo，不要乱码文字。",
+  "description": "Generates three distinct cover image options for a dental clinic's Xiaohongshu posts about teeth straightening, focusing on different angles: 'avoiding pitfalls', 'comparing options', and 'showing results'.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/1caa0d76d19056b1546faa9a6dfa09fd.png"
+  ],
+  "categories": [
+    "social-media-post",
+    "infographic-edu-visual",
+    "illustration"
+  ],
+  "tags": [
+    "dental-clinic",
+    "xiaohongshu",
+    "cover-design",
+    "marketing",
+    "healthcare"
+  ],
+  "style": "Professional medical services + content growth case, clean, credible, low marketing feel.",
+  "aspectRatio": "9:16",
+  "language": "zh",
+  "authorName": "zhm20220917",
+  "authorLink": "https://x.com/zhm20220917",
+  "sourceLink": "https://x.com/zhm20220917/status/2046785295983710312?s=46",
+  "sourcePlatform": "x",
+  "sourceExternalId": "04abef0bac9793f0c8bbabf2",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/Image-2发布后普通人年入 50 万的 10 个机会【万字指南】.md",
+  "cleanedAt": "2026-04-23T08:48:07.428Z"
+}

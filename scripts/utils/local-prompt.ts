@@ -26,6 +26,59 @@ export interface LocalPromptEntry {
   cleanedAt: string;
 }
 
+export const PROMPT_CATEGORY_SLUGS = [
+  // Use Cases
+  'profile-avatar',
+  'social-media-post',
+  'infographic-edu-visual',
+  'youtube-thumbnail',
+  'comic-storyboard',
+  'product-marketing',
+  'ecommerce-main-image',
+  'game-asset',
+  'poster-flyer',
+  'app-web-design',
+  // Styles
+  'photography',
+  'cinematic-film-still',
+  'anime-manga',
+  'illustration',
+  'sketch-line-art',
+  'comic-graphic-novel',
+  '3d-render',
+  'chibi-q-style',
+  'isometric',
+  'pixel-art',
+  'oil-painting',
+  'watercolor',
+  'ink-chinese-style',
+  'retro-vintage',
+  'cyberpunk-sci-fi',
+  'minimalism',
+  // Subjects
+  'portrait-selfie',
+  'influencer-model',
+  'character',
+  'group-couple',
+  'product',
+  'food-drink',
+  'fashion-item',
+  'animal-creature',
+  'vehicle',
+  'architecture-interior',
+  'landscape-nature',
+  'cityscape-street',
+  'diagram-chart',
+  'text-typography',
+  'abstract-background',
+  // Fallback
+  'other',
+] as const;
+
+export type PromptCategorySlug = (typeof PROMPT_CATEGORY_SLUGS)[number];
+
+const PROMPT_CATEGORY_SET = new Set<string>(PROMPT_CATEGORY_SLUGS);
+
 export function slugify(value: string): string {
   return value
     .toLowerCase()
@@ -51,6 +104,15 @@ export function normalizeStringArray(value: unknown): string[] {
       .filter(Boolean);
   }
   return [];
+}
+
+export function normalizeCategories(value: unknown): PromptCategorySlug[] {
+  const normalized = normalizeStringArray(value)
+    .map((item) => slugify(item))
+    .filter((item) => PROMPT_CATEGORY_SET.has(item)) as PromptCategorySlug[];
+  const unique = [...new Set(normalized)];
+
+  return unique.length > 0 ? unique : ['other'];
 }
 
 export function extractUrls(value: unknown): string[] {
@@ -95,7 +157,7 @@ export function normalizePromptEntry(raw: Partial<LocalPromptEntry>): LocalPromp
   }
 
   const imageUrls = extractUrls(raw.imageUrls);
-  const categories = normalizeStringArray(raw.categories);
+  const categories = normalizeCategories(raw.categories);
   const tags = normalizeStringArray(raw.tags);
   const sourceLink = raw.sourceLink?.trim() || undefined;
   const rawNotePath = raw.rawNotePath?.trim() || undefined;

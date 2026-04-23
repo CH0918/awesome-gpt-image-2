@@ -9,6 +9,7 @@ import {
   entryFileName,
   hashText,
   normalizePromptEntry,
+  PROMPT_CATEGORY_SLUGS,
   type LocalPromptEntry,
 } from './utils/local-prompt.js';
 
@@ -63,6 +64,8 @@ function extractJson(text: string): unknown {
 }
 
 function buildCleanerPrompt(args: { filePath: string; content: string }): string {
+  const categoryList = PROMPT_CATEGORY_SLUGS.map((item) => `  - ${item}`).join('\n');
+
   return `你是 Img2AI 的 Prompt 资料整理助手。请把下面这篇来源不统一的生图教程、攻略、推文、公众号摘录或个人笔记，清洗成一个严格 JSON 数组。
 
 要求：
@@ -78,11 +81,15 @@ function buildCleanerPrompt(args: { filePath: string; content: string }): string
 - 如果原文缺少字段，请合理推断；不能确定版权时 licenseStatus 用 "needs-review"。
 - prompt 字段必须保留可直接用于生图模型的完整提示词。
 - description 用英文，简洁说明这个 prompt 适合生成什么。
-- categories/tags 用英文 slug 或英文短词。
+- categories 必须从下面枚举中选择 1-3 个，不能创造新分类；无法判断时只能填写 ["other"]。
+- tags 用英文 slug 或英文短词，可自由提炼 2-6 个。
 - language 用 BCP-47 简码，例如 en、zh、ja。
 - imageUrls 只保留 http/https 图片链接，没有则为空数组。
 - sourceLink、authorName、authorLink 尽量从原文或 frontmatter 中提取。
 - sourceExternalId 可留空，脚本会自动生成；如果填写，请确保每个案例不同。
+
+categories 枚举：
+${categoryList}
 
 JSON schema:
 [
@@ -91,7 +98,7 @@ JSON schema:
     "prompt": "string",
     "description": "string",
     "imageUrls": ["https://..."],
-    "categories": ["poster", "product"],
+    "categories": ["poster-flyer", "product"],
     "tags": ["gpt-image-2", "3d-render"],
     "style": "string",
     "aspectRatio": "1:1 | 3:4 | 4:3 | 16:9 | 9:16",

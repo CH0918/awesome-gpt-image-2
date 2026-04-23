@@ -121,8 +121,8 @@ body:
     id: categories
     attributes:
       label: Categories
-      description: Comma-separated category slugs
-      placeholder: "e.g., product-poster, social-media, infographic"
+      description: "Comma-separated category slugs. Allowed: profile-avatar, social-media-post, infographic-edu-visual, youtube-thumbnail, comic-storyboard, product-marketing, ecommerce-main-image, game-asset, poster-flyer, app-web-design, photography, cinematic-film-still, anime-manga, illustration, sketch-line-art, comic-graphic-novel, 3d-render, chibi-q-style, isometric, pixel-art, oil-painting, watercolor, ink-chinese-style, retro-vintage, cyberpunk-sci-fi, minimalism, portrait-selfie, influencer-model, character, group-couple, product, food-drink, fashion-item, animal-creature, vehicle, architecture-interior, landscape-nature, cityscape-street, diagram-chart, text-typography, abstract-background, other"
+      placeholder: "e.g., poster-flyer, product, 3d-render"
 
   - type: input
     id: tags

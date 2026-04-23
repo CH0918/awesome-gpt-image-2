@@ -1,6 +1,7 @@
 name: Img2AI Approved Issue to JSON
 
 on:
+  workflow_dispatch:
   issues:
     types: [labeled]
 
@@ -8,11 +9,18 @@ permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: img2ai-approved-issues
+  cancel-in-progress: false
+
 jobs:
   issue-to-json:
     if: |
-      github.event.label.name == 'approved' &&
-      contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
+      github.event_name == 'workflow_dispatch' ||
+      (
+        github.event.label.name == 'approved' &&
+        contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
+      )
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,64 +39,101 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Convert approved issue to JSON
+      - name: Convert approved issues to JSON
         env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           APPROVED_OUTPUT_DIR: data/my/approved
-        run: pnpm img2ai:issue-to-json
+          PROCESSED_ISSUES_OUTPUT: ${{ runner.temp }}/approved-issues.json
+        run: pnpm img2ai:approved-batch
 
-      - name: Rebase onto latest main before README generation
-        run: git pull --rebase --autostash origin main
-
-      - name: Generate README
-        env:
-          UPSTREAM_README_URL: ${{ vars.UPSTREAM_README_URL }}
-          LOCAL_README_OUTPUT: README.md
-        run: pnpm img2ai:generate
-
-      - name: Commit generated data
+      - name: Commit approved JSON
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/my/approved README.md
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "No generated changes to commit."
-            exit 0
-          fi
-          git commit -m "data: add approved Img2AI prompt"
+          git add data/my/approved
+          if git diff --staged --quiet; then
+            echo "No approved JSON changes to commit."
+          else
+            git commit -m "data: add approved Img2AI prompt"
 
-          # Batch approvals can start many issue workflows from the same base
-          # commit. If another run pushes first, rebase, regenerate README from
-          # the merged data set, amend, and retry so README does not lose items.
+            # Batch approvals can start many issue workflows from the same base
+            # commit. Keep the JSON commit independent from README so rebases do
+            # not conflict on generated markdown.
+            for i in 1 2 3 4 5; do
+              if git push; then
+                echo "Pushed approved JSON on attempt $i"
+                exit 0
+              fi
+              echo "JSON push rejected on attempt $i; rebasing and retrying..."
+              git pull --rebase origin main
+              sleep $((i * 2))
+            done
+            echo "JSON push still failing after 5 attempts" >&2
+            exit 1
+          fi
+
+      - name: Generate and commit README
+        env:
+          UPSTREAM_README_URL: ${{ vars.UPSTREAM_README_URL }}
+          LOCAL_README_OUTPUT: README.md
+        run: |
+          git fetch origin main
+
+          # README is derived from data/my/approved/*.json. On push races, throw
+          # away the stale generated README, restart from latest origin/main, and
+          # generate again instead of rebasing a generated file.
           for i in 1 2 3 4 5; do
-            if git push; then
-              echo "Pushed on attempt $i"
-              exit 0
-            fi
-            echo "Push rejected on attempt $i; rebasing, regenerating README, and retrying..."
-            git pull --rebase origin main
+            git switch -C readme-update origin/main
             pnpm img2ai:generate
             git add README.md
-            git commit --amend --no-edit
+
+            if git diff --staged --quiet; then
+              echo "No README changes to commit."
+              exit 0
+            fi
+
+            git commit -m "docs: update Img2AI README"
+            if git push origin HEAD:main; then
+              echo "Pushed README on attempt $i"
+              exit 0
+            fi
+
+            echo "README push rejected on attempt $i; fetching latest main and regenerating..."
+            git fetch origin main
             sleep $((i * 2))
           done
-          echo "Push still failing after 5 attempts" >&2
+          echo "README push still failing after 5 attempts" >&2
           exit 1
 
       - name: Comment on issue
         uses: actions/github-script@v7
+        env:
+          PROCESSED_ISSUES_OUTPUT: ${{ runner.temp }}/approved-issues.json
         with:
           script: |
-            await github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '已同步为 `data/my/approved/*.json`，并重新生成 README。现在将关闭该 Issue，后续可在已关闭 Issue 中追溯。'
-            })
-            await github.rest.issues.update({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'closed',
-              state_reason: 'completed'
-            })
+            const fs = require('fs')
+            const file = process.env.PROCESSED_ISSUES_OUTPUT
+            const issues = fs.existsSync(file)
+              ? JSON.parse(fs.readFileSync(file, 'utf8'))
+              : []
+
+            if (issues.length === 0) {
+              core.info('No approved issues were processed.')
+              return
+            }
+
+            for (const issue of issues) {
+              await github.rest.issues.createComment({
+                issue_number: issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '已同步为 `data/my/approved/*.json`，并重新生成 README。现在将关闭该 Issue，后续可在已关闭 Issue 中追溯。'
+              })
+              await github.rest.issues.update({
+                issue_number: issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'closed',
+                state_reason: 'completed'
+              })
+            }

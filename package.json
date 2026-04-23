@@ -9,6 +9,7 @@
     "img2ai:clean": "tsx scripts/clean-obsidian-to-issue.ts",
     "img2ai:clean:dry": "tsx scripts/clean-obsidian-to-issue.ts --dry-run",
     "img2ai:issue-to-json": "tsx scripts/approved-issue-to-json.ts",
+    "img2ai:approved-batch": "tsx scripts/approved-issues-to-json.ts",
     "img2ai:generate": "tsx scripts/generate-local-readme.ts"
   },
   "devDependencies": {

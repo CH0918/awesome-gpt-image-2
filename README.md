@@ -6,7 +6,65 @@
 ## 🌱 Img2AI Curated Prompts
 > This section is generated from `data/my/approved/*.json`.
 ## 📋 All Prompts
-### No. 1: AI Productivity Course Visual Package
+### No. 1: AI Customer Service Solution Before-and-After Comparison
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a B2B pre-sales presentation slide comparing traditional customer service with an AI-powered solution for an AI customer service company. It visualizes the improvements in issue resolution, data management, and efficiency.
+
+#### 📝 Prompt
+
+```
+请直接生成企业 AI 客服公司的售前 PPT 方案页，不要生成“服务展示图”，不要出现会议室、销售人员、设计人员或案例说明画面。
+业务背景：
+客户原来的售前 PPT 只写能力清单：知识库问答、多轮对话、工单流转、数据分析。潜在客户看完没有感觉。现在要把方案改成“改造前后对比图”，让客户一眼看懂业务价值。
+生成目标：
+请生成一张 16:9 横版 B2B 售前方案页，主题是“AI 客服改造前后对比”。这张图应当能直接放进 PPT。
+画面结构：
+左侧：改造前。
+表现客户问题散落在电话、聊天、网页表单；客服重复回答；问题无法沉淀；主管只能事后看结果。
+中间：AI 客服流程中枢。
+包含问题识别、知识库回答、人工转接、工单流转、数据看板五个节点。
+右侧：改造后。
+表现标准问题自动回答、复杂问题转人工、工单自动进入系统、高频问题沉淀成知识、主管每周看到问题排行榜。
+展示方式：
+- 用流程图、业务节点、箭头、系统看板和少量人物小图标结合。
+- 不要出现真实企业 logo。
+- 可以使用短中文标签，例如“改造前”“AI中枢”“改造后”“知识库”“工单”“数据看板”，不要写长段文字。
+风格：
+企业级 SaaS 售前方案图，专业、清晰、可信，适合放进 PPT。
+色彩：
+白色、石墨灰、企业蓝、青绿色、少量橙色强调风险点。
+限制：
+不要过度科幻，不要黑底大屏，不要乱码中文，不要真实平台 logo。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/68d97ecd758b2b0abf5190e64eb12148.png" width="600" alt="AI Customer Service Solution Before-and-After Comparison - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, app-web-design, diagram-chart
+- **Tags:** b2b, ai-customer-service, pre-sales, infographic, comparison
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-9ab19e6fdf21af49017559ea)**
+
+---
+
+### No. 2: AI Productivity Course Visual Package
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -72,7 +130,68 @@ Generates a visual package for an 'AI Productivity' course, including a main cov
 
 ---
 
-### No. 2: Bubble Tea Shop New Employee SOP Checklist
+### No. 3: Ancient City Night Tour Content Assets
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a set of cultural tourism content assets for an ancient city night tour, including a route map, cover images for key attractions, a tourist guide, and seasonal theme posters, designed for multi-platform promotion.
+
+#### 📝 Prompt
+
+```
+请直接生成古城夜游项目最终可发布/使用的文旅内容资产，不要生成“服务展示图”，不要出现运营人员、内容看板或案例说明画面。
+业务背景：
+古城夜游项目有活动和灯光，但线上内容很散，游客只知道晚上有灯，不知道路线、玩法、打卡点和故事。现在要做一套可用于公众号、小红书、视频号、景区导览屏的内容视觉资产。
+生成目标：
+请生成一张文旅内容资产拼版，里面包含 4 类最终可用素材：
+内容资产包括：
+1. 夜游路线图。
+画面：古城平面路线、入口、主街、河道、灯光打卡点、出口。
+2. 打卡点封面。
+画面：灯笼街、古桥、河边夜景、城墙、非遗摊位。
+3. 游客攻略图。
+画面：第一次来怎么玩，包含路线顺序、拍照点、停留时间、适合人群。
+4. 节气主题海报。
+画面：古城夜色、灯笼、节气氛围、适合线上传播。
+画面结构：
+- 这是一组最终内容素材拼版，不要出现制作过程。
+- 每个素材都要能单独裁切使用。
+- 可以使用短中文标题，例如“夜游路线”“打卡点”“游玩攻略”“节气海报”。
+- 不要出现具体城市名和真实景区名。
+风格：
+文旅内容素材，温暖、有烟火气、有文化感，但不要太古风玄幻。
+色彩：
+夜蓝、暖灯黄、米白、朱红、深灰。
+限制：
+不要真实景区 logo，不要乱码文字，不要过度仙侠风，不要空洞风景图，要体现内容资产包。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/4bbf70ac8e12f92d5cf51598102098c2.png" width="600" alt="Ancient City Night Tour Content Assets - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** poster-flyer, illustration, infographic-edu-visual
+- **Tags:** cultural-tourism, night-tour, marketing-assets, illustration, promotional-material
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-d670602c4de9d73de1e0c5bb)**
+
+---
+
+### No. 4: Bubble Tea Shop New Employee SOP Checklist
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -137,7 +256,72 @@ Generates a 6-card SOP (Standard Operating Procedure) set for new employees at a
 
 ---
 
-### No. 3: Dental Clinic Xiaohongshu Cover Options
+### No. 5: Community Coffee Shop Promotion Graphics
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates promotional graphics for a community coffee shop, including a 'buy one get one free' offer, a new oat latte feature, and a weekend afternoon tea set. Suitable for social media posts like WeChat Moments and Xiaohongshu.
+
+#### 📝 Prompt
+
+```
+请直接生成一家社区咖啡店最终可以发布的活动素材，不要生成“服务展示页”，不要出现老板、设计师、电脑样机或案例说明画面。
+业务背景：
+这是一家社区街角咖啡店，主打手作咖啡、燕麦拿铁、周末下午茶和熟客复购。门店风格温暖、干净、有生活方式感，但不是奢侈品牌，也不要太网红。
+生成目标：
+请生成一张 3 宫格拼版图，每一格都是一张可以单独裁切使用的社交媒体活动图：
+第 1 张：周一早鸟咖啡活动图。
+主题：工作日前半小时，一杯咖啡开启一天。
+画面：清晨阳光、热咖啡、通勤包、店内靠窗座位。
+重点：适合朋友圈或社群发布，氛围要轻松、真实、有到店冲动。
+第 2 张：新品燕麦拿铁封面图。
+主题：顺滑燕麦拿铁，适合通勤路上的轻负担咖啡。
+画面：燕麦拿铁特写、杯壁水珠、浅色桌面、少量燕麦元素。
+重点：适合小红书封面，画面要干净，有产品质感。
+第 3 张：周末下午茶套餐图。
+主题：两杯饮品 + 小甜点 + 朋友聊天。
+画面：两杯咖啡、甜点盘、周末桌面、轻松社交感。
+重点：适合社群和团购套餐图，突出“可以约朋友来坐一下午”。
+画面要求：
+- 三张图风格统一，像同一家咖啡店的系列内容。
+- 每张图都要留出清晰的标题区和价格/活动信息区。
+- 不要生成真实品牌名。
+- 不要生成难以识别的中文。
+- 如果需要文字，用简短中文占位词即可，例如“早鸟咖啡”“新品上新”“周末套餐”，不要超过 6 个字。
+风格：
+真实商业摄影 + 轻微海报设计感，干净、温暖、可信，不要卡通化。
+色彩：
+奶油白、咖啡棕、浅木色、墨绿色、少量橙色点缀。
+避免：
+不要出现真实平台 logo，不要出现真实品牌名称，不要生成乱码中文，不要过度高级感，不要夜店风，不要紫色渐变。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/910c4896562870a0b4c41d97077b7d3d.png" width="600" alt="Community Coffee Shop Promotion Graphics - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** product-marketing, social-media-post, illustration
+- **Tags:** coffee-shop, promotion, social-media, ecommerce, food-drink
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-c91f142801c1661c98118124)**
+
+---
+
+### No. 6: Dental Clinic Xiaohongshu Cover Options
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -202,7 +386,139 @@ Generates three distinct cover image options for a dental clinic's Xiaohongshu p
 
 ---
 
-### No. 4: Full Page Japanese Manga Example
+### No. 7: Fascia Gun Ad Creative Variables for Testing
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates five distinct ad creatives for a fascia gun, targeting different user pain points and scenarios for A/B testing in ad campaigns. Includes office relaxation, post-workout recovery, gift ideas, quiet home use, and post-work unwinding.
+
+#### 📝 Prompt
+
+```
+请直接生成筋膜枪产品可用于投放测试的广告素材，不要生成“服务展示页”，不要出现办公室里的人看素材、数据看板或案例说明画面。
+业务背景：
+客户是一家销售筋膜枪的中小电商商家，原来只有一套产品白底图，投放点击率低。现在需要围绕同一款筋膜枪，生成多种可测试的广告素材方向。
+生成目标：
+请生成一张 5 宫格广告素材拼版，每一格都是可以单独裁切用于短视频首帧或信息流广告的素材。
+第 1 张：办公室久坐肩颈放松。
+画面：白领在办公桌旁使用筋膜枪放松肩颈，背景是干净办公场景。
+卖点表达：久坐人群、肩颈压力、随手放松。
+第 2 张：健身后肌肉放松。
+画面：健身包、瑜伽垫、运动水杯、筋膜枪产品特写。
+卖点表达：运动后恢复、便携、适合健身人群。
+第 3 张：送父母的健康礼物。
+画面：温暖家庭客厅，礼盒包装，父母使用场景但不要夸张医疗效果。
+卖点表达：实用礼物、长辈日常放松。
+第 4 张：居家低噪音使用。
+画面：夜晚家中沙发、台灯、安静使用产品，不打扰家人。
+卖点表达：低噪音、居家友好。
+第 5 张：下班后快速放松。
+画面：年轻人回到家，放下电脑包，在沙发上使用筋膜枪。
+卖点表达：下班疲惫、快速放松、轻松恢复状态。
+画面结构：
+- 每张素材都要有清晰产品主体。
+- 每张素材预留标题区和卖点区。
+- 不要出现真实品牌名。
+- 中文文字尽量少，允许使用短标题占位，例如“久坐放松”“运动恢复”“送父母”“低噪使用”“下班放松”。
+素材风格：
+电商广告视觉、干净、明亮、专业，有测试感和增长感。
+色彩：
+白色、浅灰、科技蓝、青绿色、少量橙色强调。
+限制：
+不要出现夸张医疗效果，不要出现“治愈”“康复”等医疗承诺，不要出现真实品牌名，不要出现难以识别的中文，不要使用平台 logo。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/22595abbc4b49510ac6f000936816442.png" width="600" alt="Fascia Gun Ad Creative Variables for Testing - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** product-marketing, ecommerce-main-image, social-media-post
+- **Tags:** fascia-gun, advertising, ecommerce, product, health-wellness
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-aec8f009c9ffd08328eb8a7d)**
+
+---
+
+### No. 8: Fitness Coach Private Domain Transactional Content
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a set of 6 visual content cards for a fitness coach to use in private domain communication (WeChat Moments, groups). Content includes client progress tracking, training tips, diet advice, private session booking, testimonials, and limited-time offers.
+
+#### 📝 Prompt
+
+```
+请直接生成健身教练最终可发到朋友圈或社群的私域成交素材，不要生成“服务展示图”，不要出现教练看内容板或案例说明页面。
+业务背景：
+健身教练每天都要在朋友圈和社群里发内容，但目前只有训练自拍，缺少能建立信任和促进咨询的成交素材。现在要做一套持续 30 天可使用的私域视觉内容。
+生成目标：
+请生成一张 6 宫格拼版，每一格是一张可单独裁切发布的私域内容图。
+六类内容卡片：
+1. 客户阶段变化记录卡。
+画面：健康体态记录、腰围尺、训练日志，不要夸张前后对比。
+2. 训练知识卡。
+画面：深蹲或肩背训练动作示意，专业但简单。
+3. 饮食避坑卡。
+画面：健康餐盘、饮料对比、热量认知，不要极端减肥。
+4. 私教课预约卡。
+画面：干净健身房、预约时间块、教练指导感。
+5. 学员反馈卡。
+画面：聊天气泡、好评截图样式，但不要真实头像和真实姓名。
+6. 限时体验课卡。
+画面：训练空间、体验课权益、行动引导区。
+画面结构：
+- 每张图都要像能直接发朋友圈。
+- 每张图预留 1 行短标题和 2-3 行说明区。
+- 允许使用短中文占位标题，例如“训练打卡”“饮食避坑”“预约体验”。
+- 不要出现真实客户姓名、真实聊天记录、真实平台界面。
+风格：
+真实、健康、可信，不要网红浮夸感。
+色彩：
+白色、石墨黑、青绿色、活力绿色、少量橙色。
+限制：
+不要夸张肌肉，不要医疗或减肥承诺，不要真实客户肖像，不要平台 logo，不要乱码中文。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/f355764e185fd50646334be66fd9e59d.jpg" width="600" alt="Fitness Coach Private Domain Transactional Content - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** profile-avatar, social-media-post, infographic-edu-visual
+- **Tags:** fitness-coach, private-domain, marketing, social-media, client-acquisition
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-5b30721523dc4bb28753f14e)**
+
+---
+
+### No. 9: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -239,7 +555,7 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 5: Industrial Equipment Maintenance SaaS Interface Prototype
+### No. 10: Industrial Equipment Maintenance SaaS Interface Prototype
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -297,7 +613,7 @@ Prototypical interface for an industrial equipment maintenance report generation
 
 ---
 
-### No. 6: Japanese Tea Drink Poster
+### No. 11: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -334,7 +650,7 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 7: Realistic Dragon Boat Race Poster
+### No. 12: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -371,7 +687,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 8: Restaurant Menu Design Test
+### No. 13: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -408,7 +724,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 9: South Asian Language Bookstore Display
+### No. 14: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -445,7 +761,7 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
-### No. 10: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 15: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

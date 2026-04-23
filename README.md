@@ -72,7 +72,72 @@ Generates a visual package for an 'AI Productivity' course, including a main cov
 
 ---
 
-### No. 2: Full Page Japanese Manga Example
+### No. 2: Bubble Tea Shop New Employee SOP Checklist
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a 6-card SOP (Standard Operating Procedure) set for new employees at a bubble tea shop, covering pre-opening checks, equipment startup, ingredient stocking, hygiene standards, peak hour order fulfillment, and closing procedures. Designed for in-store visual reference.
+
+#### 📝 Prompt
+
+```
+请直接生成连锁茶饮店新人开店 SOP 流程卡，不要生成“服务展示图”，不要出现店长看资料、墙面展示案例或说明画面。
+业务背景：
+茶饮店原来有一份 8 页 Word 版《新人开店准备流程》，新人记不住，店长每天重复解释。现在要把它拆成适合贴在门店里的可视化流程卡。
+生成目标：
+请生成一张 6 宫格 SOP 流程卡拼版，每一格是一张可单独打印张贴的门店执行卡。
+六张 SOP 卡片内容：
+1. 开店前 30 分钟检查表。
+内容：灯光、收银、设备、水电、原料、卫生。
+2. 设备启动流程。
+内容：制冰机、封口机、热水机、冰箱、收银设备。
+3. 原料备货检查。
+内容：茶底、奶、珍珠、果酱、杯盖、吸管。
+4. 卫生清洁标准。
+内容：台面、地面、工具、手部、垃圾、冷藏区。
+5. 高峰期出杯流程。
+内容：接单、制作、封口、核对、出杯、异常处理。
+6. 闭店复盘检查。
+内容：库存、设备关闭、清洁、现金/订单、次日备货。
+画面结构：
+- 每张卡用图标、步骤编号、抽象线条表示流程，不要生成可读中文。
+- 每张卡要有清晰标题区、步骤区、检查区。
+- 允许使用短中文标题，例如“开店检查”“设备启动”“原料备货”“卫生标准”“高峰出杯”“闭店复盘”。
+- 画面要像真正能打印出来贴在门店里的 SOP 卡片。
+风格：
+干净的连锁门店培训视觉，实用、标准化、易执行。
+色彩：
+奶茶色、白色、浅木色、青绿色、石墨灰。
+限制：
+不要真实品牌名，不要平台 logo，不要乱码中文，不要脏乱厨房，不要过度卡通。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/cda28cf17f66b42b03e7e8d3581127c7.png" width="600" alt="Bubble Tea Shop New Employee SOP Checklist - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration, diagram-chart
+- **Tags:** sop, training, food-service, retail, procedural-illustration
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-784a087f00eb3658176ceb98)**
+
+---
+
+### No. 3: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -109,7 +174,7 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 3: Japanese Tea Drink Poster
+### No. 4: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -146,7 +211,7 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 4: Realistic Dragon Boat Race Poster
+### No. 5: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -183,7 +248,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 5: Restaurant Menu Design Test
+### No. 6: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -220,7 +285,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 6: South Asian Language Bookstore Display
+### No. 7: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -257,7 +322,7 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
-### No. 7: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 8: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

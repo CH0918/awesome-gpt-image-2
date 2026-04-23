@@ -102,7 +102,7 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** ja
-- **Categories:** manga, comic-art
+- **Categories:** other
 - **Tags:** gpt-image-2, japanese-text, sequential-art
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-135d9a0fa5cd00ad92b39abf)**
@@ -139,7 +139,7 @@ Generate a poster for a Japanese tea drink.
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** poster, advertisement
+- **Categories:** other
 - **Tags:** gpt-image-2, japanese-tea, graphic-design
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-93db9557783f847b4255c298)**
@@ -176,7 +176,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** poster, event-promotion
+- **Categories:** other
 - **Tags:** gpt-image-2, dragon-boat-race, realistic-art
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-0b455fb70259d023c8f38d7e)**
@@ -213,7 +213,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** menu-design, graphic-design
+- **Categories:** other
 - **Tags:** gpt-image-2, text-rendering, layout
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-23c51b8fd9e3c3eb5b7aa9da)**
@@ -250,14 +250,14 @@ Generate a display image for a bookstore, featuring books with spines showing So
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** retail-display, typography
+- **Categories:** other
 - **Tags:** gpt-image-2, indian-languages, bookstore
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-63268f544d57ad6fa762c380)**
 
 ---
 
-### No. 6: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 7: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

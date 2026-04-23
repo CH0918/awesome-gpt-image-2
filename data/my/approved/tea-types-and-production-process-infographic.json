@@ -1,0 +1,32 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Tea Types and Production Process Infographic",
+  "prompt": "用高级杂志感风格画一张茶叶种类和制作过程的科普图。",
+  "description": "Create an infographic illustrating tea types and their production process in a high-end, magazine-like style.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/81d04580fec52affc9a70a159b3a1b42.webp"
+  ],
+  "categories": [
+    "infographic-edu-visual",
+    "illustration"
+  ],
+  "tags": [
+    "tea-types",
+    "production-process",
+    "infographic",
+    "magazine-style",
+    "科普图"
+  ],
+  "style": "High-end magazine, detailed, informative",
+  "aspectRatio": "3:4",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.830Z"
+}

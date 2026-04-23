@@ -1,0 +1,31 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Keyboard Product Promotion Image",
+  "prompt": "帮我为这个产品生成宣传图片，宣传图片要符合这个产品的气质和风格",
+  "description": "Generate a promotional image for a keyboard, capturing its style and essence.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/7dd213f64865c3ff12a8db08dc16a1ad.webp"
+  ],
+  "categories": [
+    "product-marketing",
+    "ecommerce-main-image"
+  ],
+  "tags": [
+    "keyboard",
+    "product-photography",
+    "promotion",
+    "e-commerce"
+  ],
+  "style": "High-quality product photography",
+  "aspectRatio": "16:9",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.830Z"
+}

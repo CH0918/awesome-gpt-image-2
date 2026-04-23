@@ -1,0 +1,31 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Black Myth: Wukong Game Screenshot",
+  "prompt": "生成一个\"黑神话武松\"的游戏截图。",
+  "description": "Generate a game screenshot in the style of 'Black Myth: Wukong', featuring Wu Song.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/6ec99acd061af98470f66627a9e94592.webp"
+  ],
+  "categories": [
+    "game-asset",
+    "cinematic-film-still"
+  ],
+  "tags": [
+    "black-myth-wukong",
+    "game-screenshot",
+    "wusong",
+    "game-ui"
+  ],
+  "style": "Black Myth: Wukong game art style",
+  "aspectRatio": "16:9",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.828Z"
+}

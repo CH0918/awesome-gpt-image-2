@@ -1,0 +1,33 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Paper Explanation Infographic",
+  "prompt": "帮我用高级、有杂志感的排版风格，详细且图形化地介绍这篇论文的内容，生成一张长图图片来让我理解它。要求使用中文。",
+  "description": "Graphically explain a research paper in a detailed and visually appealing long-form infographic with a high-end magazine style, in Chinese.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/b0d6f0ffc2768539d23717de2edcef17.webp"
+  ],
+  "categories": [
+    "infographic-edu-visual",
+    "illustration"
+  ],
+  "tags": [
+    "paper-explanation",
+    "infographic",
+    "long-scroll",
+    "magazine-style",
+    "research-visualization",
+    "chinese"
+  ],
+  "style": "High-end magazine, detailed, graphical, informative",
+  "aspectRatio": "9:16",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.830Z"
+}

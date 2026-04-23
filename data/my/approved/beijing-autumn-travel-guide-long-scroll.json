@@ -1,0 +1,33 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Beijing Autumn Travel Guide Long Scroll",
+  "prompt": "生成北京秋季的游览攻略图片",
+  "description": "Generate a long scroll image for a Beijing autumn travel guide, including attractions, itinerary, food, and transportation.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/c3851d2e4af23126150bf670bc833784.webp"
+  ],
+  "categories": [
+    "infographic-edu-visual",
+    "illustration",
+    "poster-flyer"
+  ],
+  "tags": [
+    "beijing",
+    "autumn-travel",
+    "guide",
+    "long-scroll",
+    "itinerary"
+  ],
+  "style": "Informative, visually appealing, detailed",
+  "aspectRatio": "9:16",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.828Z"
+}

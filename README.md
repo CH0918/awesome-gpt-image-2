@@ -6,7 +6,44 @@
 ## 🌱 Img2AI Curated Prompts
 > This section is generated from `data/my/approved/*.json`.
 ## 📋 All Prompts
-### No. 1: Restaurant Menu Design Test
+### No. 1: Realistic Dragon Boat Race Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+
+#### 📖 Description
+
+A realistic poster depicting a dragon boat race, emphasizing a grand and dynamic atmosphere.
+
+#### 📝 Prompt
+
+```
+Create a realistic poster of a dragon boat race, capturing a majestic and powerful atmosphere, with accompanying poster text.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/5f197226a3360ccd5e354ed6912acb07.webp" width="600" alt="Realistic Dragon Boat Race Poster - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [小互](know)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
+- **Published:** April 23, 2026
+- **Languages:** en
+- **Categories:** poster, event-promotion
+- **Tags:** gpt-image-2, dragon-boat-race, realistic-art
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-0b455fb70259d023c8f38d7e)**
+
+---
+
+### No. 2: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -43,7 +80,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 2: South Asian Language Bookstore Display
+### No. 3: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 

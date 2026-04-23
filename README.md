@@ -191,7 +191,229 @@ Generates a set of cultural tourism content assets for an ancient city night tou
 
 ---
 
-### No. 4: Bubble Tea Shop New Employee SOP Checklist
+### No. 4: Ancient Treasure Hunt Match-3 Game UI
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a match-3 game UI screenshot with an ancient treasure hunt theme.
+
+#### 📝 Prompt
+
+```
+生成一个古代探宝风格的三消游戏 UI 截图。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/f7aa77d876af39e4ae6d9cd2ccae7f7a.webp" width="600" alt="Ancient Treasure Hunt Match-3 Game UI - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** game-asset, app-web-design
+- **Tags:** match-3-game, game-ui, ancient-treasure, puzzle-game
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 5: Apple Style Product Promotion Card
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate an Apple-style Chinese promotional card for a product, leveraging GPT-Image-2.
+
+#### 📝 Prompt
+
+```
+用 gpt-image-2 为这个产品生成生成苹果风格的中文卡片宣传图：https://github.com/op7418/CodePilot
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/81c1dc31cacff946fc939a1a20b704d7.webp" width="600" alt="Apple Style Product Promotion Card - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** product-marketing, app-web-design
+- **Tags:** apple-style, product-promotion, chinese, card-design, gpt-image-2
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 6: ARPG Game Screenshot with Dialogue Box
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate an ARPG game screenshot featuring a dialogue selection UI.
+
+#### 📝 Prompt
+
+```
+为 ARPG 游戏生成一个带有对话选择框 UI 的游戏截图。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/ba03126158ba6eed24f23903df398c80.webp" width="600" alt="ARPG Game Screenshot with Dialogue Box - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** game-asset, app-web-design
+- **Tags:** arpg-game, game-screenshot, dialogue-ui, interactive-story
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 7: Beijing Autumn Travel Guide Long Scroll
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a long scroll image for a Beijing autumn travel guide, including attractions, itinerary, food, and transportation.
+
+#### 📝 Prompt
+
+```
+生成北京秋季的游览攻略图片
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/c3851d2e4af23126150bf670bc833784.webp" width="600" alt="Beijing Autumn Travel Guide Long Scroll - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration, poster-flyer
+- **Tags:** beijing, autumn-travel, guide, long-scroll, itinerary
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 8: Black Myth: Wukong Game Screenshot
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a game screenshot in the style of 'Black Myth: Wukong', featuring Wu Song.
+
+#### 📝 Prompt
+
+```
+生成一个"黑神话武松"的游戏截图。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/6ec99acd061af98470f66627a9e94592.webp" width="600" alt="Black Myth: Wukong Game Screenshot - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** game-asset, cinematic-film-still
+- **Tags:** black-myth-wukong, game-screenshot, wusong, game-ui
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 9: Blueberry Product Promotion Image
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a promotional image for blueberries, highlighting their freshness and appeal.
+
+#### 📝 Prompt
+
+```
+帮我为这个产品生成宣传图片，宣传图片要符合这个产品的气质和风格
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/6ccc2622ebf244192bf0349728bf0e61.webp" width="600" alt="Blueberry Product Promotion Image - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** product-marketing, food-drink, ecommerce-main-image
+- **Tags:** blueberries, product-photography, promotion, food, e-commerce
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 10: Bubble Tea Shop New Employee SOP Checklist
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -256,7 +478,93 @@ Generates a 6-card SOP (Standard Operating Procedure) set for new employees at a
 
 ---
 
-### No. 5: Community Coffee Shop Promotion Graphics
+### No. 11: Car Website UI Design
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a website UI design for a car, matching its aesthetic and style.
+
+#### 📝 Prompt
+
+```
+为这个汽车生成符合其气质和风格的官网 UI 设计稿。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/3ba73c15c61601af0762fdeaae0a634d.webp" width="600" alt="Car Website UI Design - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/ac26ff9004596add27d3675b5e172ad0.png" width="600" alt="Car Website UI Design - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** app-web-design, product-marketing
+- **Tags:** car-website, ui-design, automotive, xiaomi-su7, official-website
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 12: CodePilot VI Design System
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Design a comprehensive VI (visual identity) system for the CodePilot project, based on a provided reference image and project information.
+
+#### 📝 Prompt
+
+```
+让他基于这个图片的风格和特色，为我的项目设计一套 VI。主要的项目信息在这里：
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/2fd2b35108d0d077b3c1676d4fd23dad.webp" width="600" alt="CodePilot VI Design System - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/ffe0a18b9c00398e121d552b86c4da55.webp" width="600" alt="CodePilot VI Design System - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** illustration, app-web-design, product-marketing
+- **Tags:** vi-design, branding, codepilot, design-system, reference-based
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 13: Community Coffee Shop Promotion Graphics
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -321,7 +629,44 @@ Generates promotional graphics for a community coffee shop, including a 'buy one
 
 ---
 
-### No. 6: Dental Clinic Xiaohongshu Cover Options
+### No. 14: Cute Illustration of Large Language Model Training Process
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Illustrate the training process of a large language model in a cute and engaging style.
+
+#### 📝 Prompt
+
+```
+用可爱的风格画一张大语言模型的训练过程科普图
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/086cf5a6cc4f1d05417b5112446254b4.webp" width="600" alt="Cute Illustration of Large Language Model Training Process - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration
+- **Tags:** llm-training, cute-style, education, 科普图, illustration
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 15: Dental Clinic Xiaohongshu Cover Options
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -386,7 +731,7 @@ Generates three distinct cover image options for a dental clinic's Xiaohongshu p
 
 ---
 
-### No. 7: Fascia Gun Ad Creative Variables for Testing
+### No. 16: Fascia Gun Ad Creative Variables for Testing
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -453,7 +798,7 @@ Generates five distinct ad creatives for a fascia gun, targeting different user 
 
 ---
 
-### No. 8: Fitness Coach Private Domain Transactional Content
+### No. 17: Fitness Coach Private Domain Transactional Content
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -518,7 +863,7 @@ Generates a set of 6 visual content cards for a fitness coach to use in private 
 
 ---
 
-### No. 9: Full Page Japanese Manga Example
+### No. 18: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -555,7 +900,50 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 
 ---
 
-### No. 10: Industrial Equipment Maintenance SaaS Interface Prototype
+### No. 19: Health App UI Design
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a UI design for a health app, based on the style of a reference image.
+
+#### 📝 Prompt
+
+```
+基于参考图的风格，生成一个健康 App 的 UI 设计稿。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/a3d6c763c1e24f215888c34c5e8feb61.webp" width="600" alt="Health App UI Design - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/50dff6ee515143e5af5335b80bf731d6.webp" width="600" alt="Health App UI Design - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** app-web-design, illustration
+- **Tags:** health-app, ui-design, mobile-app, reference-based
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 20: Industrial Equipment Maintenance SaaS Interface Prototype
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -613,7 +1001,7 @@ Prototypical interface for an industrial equipment maintenance report generation
 
 ---
 
-### No. 11: Japanese Tea Drink Poster
+### No. 21: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -650,7 +1038,118 @@ Generate a poster for a Japanese tea drink.
 
 ---
 
-### No. 12: Realistic Dragon Boat Race Poster
+### No. 22: Keyboard Product Promotion Image
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a promotional image for a keyboard, capturing its style and essence.
+
+#### 📝 Prompt
+
+```
+帮我为这个产品生成宣传图片，宣传图片要符合这个产品的气质和风格
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/7dd213f64865c3ff12a8db08dc16a1ad.webp" width="600" alt="Keyboard Product Promotion Image - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** product-marketing, ecommerce-main-image
+- **Tags:** keyboard, product-photography, promotion, e-commerce
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 23: OpenAI Style Update Announcement Poster
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Create a product update announcement poster in OpenAI's signature style, emphasizing a clean, card-like, and premium aesthetic.
+
+#### 📝 Prompt
+
+```
+根据这篇文章生成一个产品更新的介绍海报，风格需要符合 OpenAI 以往的设计风格，内容需要简洁，整体呈现苹果风、卡片化、高级感：
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/22d1e7c12a2a3cd9abfb6eb48d6d485b.webp" width="600" alt="OpenAI Style Update Announcement Poster - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** poster-flyer, product-marketing
+- **Tags:** openai-style, product-update, poster, minimalist, premium
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 24: Paper Explanation Infographic
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Graphically explain a research paper in a detailed and visually appealing long-form infographic with a high-end magazine style, in Chinese.
+
+#### 📝 Prompt
+
+```
+帮我用高级、有杂志感的排版风格，详细且图形化地介绍这篇论文的内容，生成一张长图图片来让我理解它。要求使用中文。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/b0d6f0ffc2768539d23717de2edcef17.webp" width="600" alt="Paper Explanation Infographic - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration
+- **Tags:** paper-explanation, infographic, long-scroll, magazine-style, research-visualization, chinese
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 25: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -687,7 +1186,7 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 
 ---
 
-### No. 13: Restaurant Menu Design Test
+### No. 26: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -724,7 +1223,7 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 
 ---
 
-### No. 14: South Asian Language Bookstore Display
+### No. 27: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -761,7 +1260,81 @@ Generate a display image for a bookstore, featuring books with spines showing So
 
 ---
 
-### No. 15: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 28: Tea Types and Production Process Infographic
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Create an infographic illustrating tea types and their production process in a high-end, magazine-like style.
+
+#### 📝 Prompt
+
+```
+用高级杂志感风格画一张茶叶种类和制作过程的科普图。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/81d04580fec52affc9a70a159b3a1b42.webp" width="600" alt="Tea Types and Production Process Infographic - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration
+- **Tags:** tea-types, production-process, infographic, magazine-style, 科普图
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 29: Three Kingdoms Themed FPS Game Character Select UI
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generate a character select UI for an FPS game with a Three Kingdoms theme and mythological style, inspired by Valorant's game design.
+
+#### 📝 Prompt
+
+```
+参考《无畏契约》（Valorant）的游戏风格，生成一个以三国为主题、神话风格的 FPS 游戏选人界面 UI 图片。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/c407e722393dac09378111693fd10b9b.webp" width="600" alt="Three Kingdoms Themed FPS Game Character Select UI - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [歸藏的 AI 工具箱](#)
+- **Source:** [Original Post](https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** game-asset, app-web-design
+- **Tags:** fps-game, character-select, three-kingdoms, mythological, valorant-style, game-ui
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-35fu9RMu3sX86jDFjVP0gQ)**
+
+---
+
+### No. 30: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

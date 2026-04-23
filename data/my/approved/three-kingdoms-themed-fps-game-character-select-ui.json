@@ -1,0 +1,33 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "Three Kingdoms Themed FPS Game Character Select UI",
+  "prompt": "参考《无畏契约》（Valorant）的游戏风格，生成一个以三国为主题、神话风格的 FPS 游戏选人界面 UI 图片。",
+  "description": "Generate a character select UI for an FPS game with a Three Kingdoms theme and mythological style, inspired by Valorant's game design.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/c407e722393dac09378111693fd10b9b.webp"
+  ],
+  "categories": [
+    "game-asset",
+    "app-web-design"
+  ],
+  "tags": [
+    "fps-game",
+    "character-select",
+    "three-kingdoms",
+    "mythological",
+    "valorant-style",
+    "game-ui"
+  ],
+  "style": "Valorant-inspired FPS UI, Three Kingdoms mythological theme",
+  "aspectRatio": "16:9",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.832Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "my-35fu9RMu3sX86jDFjVP0gQ",
+  "title": "OpenAI Style Update Announcement Poster",
+  "prompt": "根据这篇文章生成一个产品更新的介绍海报，风格需要符合 OpenAI 以往的设计风格，内容需要简洁，整体呈现苹果风、卡片化、高级感：",
+  "description": "Create a product update announcement poster in OpenAI's signature style, emphasizing a clean, card-like, and premium aesthetic.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/22d1e7c12a2a3cd9abfb6eb48d6d485b.webp"
+  ],
+  "categories": [
+    "poster-flyer",
+    "product-marketing"
+  ],
+  "tags": [
+    "openai-style",
+    "product-update",
+    "poster",
+    "minimalist",
+    "premium"
+  ],
+  "style": "OpenAI design language, gradient colors, clean, card-like, premium",
+  "aspectRatio": "16:9",
+  "language": "zh",
+  "authorName": "歸藏的 AI 工具箱",
+  "sourceLink": "https://mp.weixin.qq.com/s/35fu9RMu3sX86jDFjVP0gQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "35fu9RMu3sX86jDFjVP0gQ",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md",
+  "cleanedAt": "2026-04-23T10:04:43.830Z"
+}

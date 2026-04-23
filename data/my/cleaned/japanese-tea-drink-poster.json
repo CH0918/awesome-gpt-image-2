@@ -1,0 +1,31 @@
+{
+  "id": "my-93db9557783f847b4255c298",
+  "title": "Japanese Tea Drink Poster",
+  "prompt": "Generate a poster for a Japanese tea drink.",
+  "description": "A poster advertising a Japanese tea drink, designed with aesthetic appeal.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/9ed8e08abb2a12719dd4ec3e26615ade.webp"
+  ],
+  "categories": [
+    "poster",
+    "advertisement"
+  ],
+  "tags": [
+    "gpt-image-2",
+    "japanese-tea",
+    "graphic-design"
+  ],
+  "style": "graphic design",
+  "aspectRatio": "3:4",
+  "language": "en",
+  "authorName": "小互",
+  "authorLink": "know",
+  "sourceLink": "https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "93db9557783f847b4255c298",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/ChatGPT Images 2.0 超详细介绍+提示技巧和案例.md",
+  "cleanedAt": "2026-04-23T06:36:36.128Z"
+}

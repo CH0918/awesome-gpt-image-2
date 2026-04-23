@@ -64,5 +64,12 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '已同步为 `data/my/approved/*.json`，并重新生成 README。'
+              body: '已同步为 `data/my/approved/*.json`，并重新生成 README。现在将关闭该 Issue，后续可在已关闭 Issue 中追溯。'
+            })
+            await github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              state_reason: 'completed'
             })

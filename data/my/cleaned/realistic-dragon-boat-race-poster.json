@@ -1,0 +1,31 @@
+{
+  "id": "my-0b455fb70259d023c8f38d7e",
+  "title": "Realistic Dragon Boat Race Poster",
+  "prompt": "Create a realistic poster of a dragon boat race, capturing a majestic and powerful atmosphere, with accompanying poster text.",
+  "description": "A realistic poster depicting a dragon boat race, emphasizing a grand and dynamic atmosphere.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/5f197226a3360ccd5e354ed6912acb07.webp"
+  ],
+  "categories": [
+    "poster",
+    "event-promotion"
+  ],
+  "tags": [
+    "gpt-image-2",
+    "dragon-boat-race",
+    "realistic-art"
+  ],
+  "style": "photorealistic",
+  "aspectRatio": "3:4",
+  "language": "en",
+  "authorName": "小互",
+  "authorLink": "know",
+  "sourceLink": "https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ",
+  "sourcePlatform": "wechat",
+  "sourceExternalId": "0b455fb70259d023c8f38d7e",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/ChatGPT Images 2.0 超详细介绍+提示技巧和案例.md",
+  "cleanedAt": "2026-04-23T06:36:36.128Z"
+}

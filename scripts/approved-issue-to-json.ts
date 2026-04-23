@@ -5,6 +5,7 @@ import path from 'node:path';
 
 import {
   entryFileName,
+  extractUrls,
   normalizePromptEntry,
   normalizeStringArray,
   type LocalPromptEntry,
@@ -53,9 +54,7 @@ function issueToEntry(fields: Record<string, string>): LocalPromptEntry {
     title: cleanValue(fields.prompt_title) || cleanValue(fields.title),
     prompt: cleanValue(fields.prompt),
     description: cleanValue(fields.description),
-    imageUrls: normalizeStringArray(
-      cleanValue(fields.generated_image_urls) || cleanValue(fields.image_urls)
-    ),
+    imageUrls: extractUrls(fields.generated_image_urls || fields.image_urls),
     categories: normalizeStringArray(cleanValue(fields.categories)),
     tags: normalizeStringArray(cleanValue(fields.tags)),
     style: cleanValue(fields.style),

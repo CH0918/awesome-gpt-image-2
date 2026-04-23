@@ -53,6 +53,21 @@ export function normalizeStringArray(value: unknown): string[] {
   return [];
 }
 
+export function extractUrls(value: unknown): string[] {
+  const values = Array.isArray(value) ? value : [value];
+  const urls = new Set<string>();
+  const pattern = /https?:\/\/[^\s)>\]]+/g;
+
+  for (const item of values) {
+    if (!item) continue;
+    for (const match of String(item).matchAll(pattern)) {
+      urls.add(match[0].trim());
+    }
+  }
+
+  return [...urls];
+}
+
 export function createSourceExternalId(args: {
   sourceLink?: string;
   title: string;
@@ -79,7 +94,7 @@ export function normalizePromptEntry(raw: Partial<LocalPromptEntry>): LocalPromp
     throw new Error(`Prompt entry "${title}" is missing prompt`);
   }
 
-  const imageUrls = normalizeStringArray(raw.imageUrls);
+  const imageUrls = extractUrls(raw.imageUrls);
   const categories = normalizeStringArray(raw.categories);
   const tags = normalizeStringArray(raw.tags);
   const sourceLink = raw.sourceLink?.trim() || undefined;

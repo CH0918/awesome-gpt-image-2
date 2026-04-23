@@ -72,7 +72,137 @@ Generates a visual package for an 'AI Productivity' course, including a main cov
 
 ---
 
-### No. 2: Full Page Japanese Manga Example
+### No. 2: Bubble Tea Shop New Employee SOP Checklist
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates a 6-card SOP (Standard Operating Procedure) set for new employees at a bubble tea shop, covering pre-opening checks, equipment startup, ingredient stocking, hygiene standards, peak hour order fulfillment, and closing procedures. Designed for in-store visual reference.
+
+#### 📝 Prompt
+
+```
+请直接生成连锁茶饮店新人开店 SOP 流程卡，不要生成“服务展示图”，不要出现店长看资料、墙面展示案例或说明画面。
+业务背景：
+茶饮店原来有一份 8 页 Word 版《新人开店准备流程》，新人记不住，店长每天重复解释。现在要把它拆成适合贴在门店里的可视化流程卡。
+生成目标：
+请生成一张 6 宫格 SOP 流程卡拼版，每一格是一张可单独打印张贴的门店执行卡。
+六张 SOP 卡片内容：
+1. 开店前 30 分钟检查表。
+内容：灯光、收银、设备、水电、原料、卫生。
+2. 设备启动流程。
+内容：制冰机、封口机、热水机、冰箱、收银设备。
+3. 原料备货检查。
+内容：茶底、奶、珍珠、果酱、杯盖、吸管。
+4. 卫生清洁标准。
+内容：台面、地面、工具、手部、垃圾、冷藏区。
+5. 高峰期出杯流程。
+内容：接单、制作、封口、核对、出杯、异常处理。
+6. 闭店复盘检查。
+内容：库存、设备关闭、清洁、现金/订单、次日备货。
+画面结构：
+- 每张卡用图标、步骤编号、抽象线条表示流程，不要生成可读中文。
+- 每张卡要有清晰标题区、步骤区、检查区。
+- 允许使用短中文标题，例如“开店检查”“设备启动”“原料备货”“卫生标准”“高峰出杯”“闭店复盘”。
+- 画面要像真正能打印出来贴在门店里的 SOP 卡片。
+风格：
+干净的连锁门店培训视觉，实用、标准化、易执行。
+色彩：
+奶茶色、白色、浅木色、青绿色、石墨灰。
+限制：
+不要真实品牌名，不要平台 logo，不要乱码中文，不要脏乱厨房，不要过度卡通。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/cda28cf17f66b42b03e7e8d3581127c7.png" width="600" alt="Bubble Tea Shop New Employee SOP Checklist - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** infographic-edu-visual, illustration, diagram-chart
+- **Tags:** sop, training, food-service, retail, procedural-illustration
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-784a087f00eb3658176ceb98)**
+
+---
+
+### No. 3: Dental Clinic Xiaohongshu Cover Options
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Generates three distinct cover image options for a dental clinic's Xiaohongshu posts about teeth straightening, focusing on different angles: 'avoiding pitfalls', 'comparing options', and 'showing results'.
+
+#### 📝 Prompt
+
+```
+请直接生成口腔诊所小红书账号最终可发布的 3 张封面图，不要生成“封面改造服务展示页”，不要出现医生和运营人员看方案的画面。
+业务背景：
+诊所原来的笔记内容是“牙齿矫正前需要知道什么”，内容专业但封面太弱，只是一张医生照片加一行小字。现在要把同一篇内容拆成 3 个可测试的封面方向。
+生成目标：
+请生成一张 3 宫格拼版，每一格是一张竖版小红书封面，可单独裁切发布。
+三张封面方向：
+1. 避坑型。
+主题：矫正前别急着交钱，先看关键问题。
+画面：牙齿模型、检查清单、医生专业提示感。
+标题区：可以使用短中文“矫正前先看”。
+2. 对比型。
+主题：不同矫正方案、不同价格、不同适合人群。
+画面：三列方案对比卡片、牙套模型、费用结构图形元素。
+标题区：可以使用短中文“方案怎么选”。
+3. 结果型。
+主题：矫正周期和阶段变化。
+画面：12 个月时间轴、牙齿模型变化示意、复诊节点。
+标题区：可以使用短中文“12个月变化”。
+画面要求：
+- 封面中可以有牙齿模型、费用拆解图、咨询场景、医生讲解图，但不要出现真实患者面部。
+- 不要出现真实患者脸部，不要做夸大疗效。
+- 不要出现大量文字，不要乱码中文。
+- 画面要像真正的小红书封面，信息清楚，第一眼能看懂主题。
+风格：
+专业医疗服务 + 内容增长案例，干净、可信、低营销感。
+色彩：
+白色、浅蓝、青绿色、浅灰、少量暖色。
+避免：
+不要恐怖牙科画面，不要血腥，不要夸张前后对比，不要真实品牌名，不要平台 logo，不要乱码文字。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/1caa0d76d19056b1546faa9a6dfa09fd.png" width="600" alt="Dental Clinic Xiaohongshu Cover Options - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** social-media-post, infographic-edu-visual, illustration
+- **Tags:** dental-clinic, xiaohongshu, cover-design, marketing, healthcare
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-04abef0bac9793f0c8bbabf2)**
+
+---
+
+### No. 4: Full Page Japanese Manga Example
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -102,14 +232,72 @@ Generate a full page of Japanese manga, ensuring all text elements including dia
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** ja
-- **Categories:** manga, comic-art
+- **Categories:** other
 - **Tags:** gpt-image-2, japanese-text, sequential-art
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-135d9a0fa5cd00ad92b39abf)**
 
 ---
 
-### No. 3: Japanese Tea Drink Poster
+### No. 5: Industrial Equipment Maintenance SaaS Interface Prototype
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+
+
+#### 📖 Description
+
+Prototypical interface for an industrial equipment maintenance report generation SaaS. It allows engineers to upload photos, input details, and receive AI-generated reports with issue classification, risk assessment, and repair suggestions, also building a fault case library.
+
+#### 📝 Prompt
+
+```
+请直接生成“工业设备维保图文报告小 SaaS”的最终产品界面原型，不要生成“服务展示图”，不要出现工程师站在旁边看大屏或案例说明画面。
+业务背景：
+工业设备维保公司的一线工程师现场拍很多照片，但报告要手动整理，客户看不懂问题严重程度，主管也无法快速判断高风险工单。现在要用 Codex + image-2 做一个小 SaaS 原型，帮助生成图文维保报告并沉淀故障案例库。
+生成目标：
+请生成一张 16:9 横版 SaaS 产品界面截图风格的原型图，画面应该像真实可用的 B 端系统界面。
+界面模块：
+1. 顶部导航：工单列表、上传照片、报告生成、案例库、数据看板。
+2. 左侧表单区：设备型号、客户名称、现场位置、问题描述、紧急程度。
+3. 中间图片区：上传的设备现场照片，图片上有异常区域标注框。
+4. 右侧 AI 分析区：问题分类、风险等级、整改建议、所需备件。
+5. 底部报告预览区：图文报告、处理建议、导出 PDF 按钮。
+6. 侧边历史案例区：相似故障案例列表。
+画面结构：
+- 要体现这是 B 端业务小系统，不只是图片生成工具。
+- 不要出现人物场景，重点只展示系统界面本身。
+- 中文文字尽量使用短标签，例如“设备型号”“风险等级”“整改建议”“报告预览”“导出 PDF”，不要生成长段乱码。
+风格：
+企业级工业 SaaS 产品界面，清晰、专业、可信，像真实可交付的业务系统原型。
+色彩：
+白色、工业灰、深蓝、青绿色、少量橙色用于风险提示。
+限制：
+不要真实企业 logo，不要真实工厂名称，不要乱码中文，不要过度科幻，不要危险事故画面，不要血腥或灾难场景。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://img.img2ai.org/img2ai-prompts/a085b5a660e5bde0d9ed94f2d4ae38cb.png" width="600" alt="Industrial Equipment Maintenance SaaS Interface Prototype - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [zhm20220917](https://x.com/zhm20220917)
+- **Source:** [Original Post](https://x.com/zhm20220917/status/2046785295983710312?s=46)
+- **Published:** April 23, 2026
+- **Languages:** zh
+- **Categories:** app-web-design, diagram-chart, infographic-edu-visual
+- **Tags:** saas, industrial, maintenance, b2b, ui-ux
+
+**[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-24fa1b16bba7dfe36de466c9)**
+
+---
+
+### No. 6: Japanese Tea Drink Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -139,14 +327,14 @@ Generate a poster for a Japanese tea drink.
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** poster, advertisement
+- **Categories:** other
 - **Tags:** gpt-image-2, japanese-tea, graphic-design
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-93db9557783f847b4255c298)**
 
 ---
 
-### No. 4: Realistic Dragon Boat Race Poster
+### No. 7: Realistic Dragon Boat Race Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -176,14 +364,14 @@ Create a realistic poster of a dragon boat race, capturing a majestic and powerf
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** poster, event-promotion
+- **Categories:** other
 - **Tags:** gpt-image-2, dragon-boat-race, realistic-art
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-0b455fb70259d023c8f38d7e)**
 
 ---
 
-### No. 5: Restaurant Menu Design Test
+### No. 8: Restaurant Menu Design Test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -213,14 +401,14 @@ Generate a restaurant menu for a Mexican restaurant. The menu should be directly
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** menu-design, graphic-design
+- **Categories:** other
 - **Tags:** gpt-image-2, text-rendering, layout
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-23c51b8fd9e3c3eb5b7aa9da)**
 
 ---
 
-### No. 6: South Asian Language Bookstore Display
+### No. 9: South Asian Language Bookstore Display
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -250,14 +438,14 @@ Generate a display image for a bookstore, featuring books with spines showing So
 - **Source:** [Original Post](https://mp.weixin.qq.com/s/gLfM-JVOrbEaFhgpmeSYbQ)
 - **Published:** April 23, 2026
 - **Languages:** en
-- **Categories:** retail-display, typography
+- **Categories:** other
 - **Tags:** gpt-image-2, indian-languages, bookstore
 
 **[👉 Try it now →](https://img2ai.local/gpt-image-2-prompts?id=my-63268f544d57ad6fa762c380)**
 
 ---
 
-### No. 6: Transparent Storage Box E-commerce Detail Page Visuals
+### No. 10: Transparent Storage Box E-commerce Detail Page Visuals
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 

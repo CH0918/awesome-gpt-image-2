@@ -1,0 +1,34 @@
+{
+  "id": "my-d670602c4de9d73de1e0c5bb",
+  "title": "Ancient City Night Tour Content Assets",
+  "prompt": "请直接生成古城夜游项目最终可发布/使用的文旅内容资产，不要生成“服务展示图”，不要出现运营人员、内容看板或案例说明画面。\n业务背景：\n古城夜游项目有活动和灯光，但线上内容很散，游客只知道晚上有灯，不知道路线、玩法、打卡点和故事。现在要做一套可用于公众号、小红书、视频号、景区导览屏的内容视觉资产。\n生成目标：\n请生成一张文旅内容资产拼版，里面包含 4 类最终可用素材：\n内容资产包括：\n1. 夜游路线图。\n画面：古城平面路线、入口、主街、河道、灯光打卡点、出口。\n2. 打卡点封面。\n画面：灯笼街、古桥、河边夜景、城墙、非遗摊位。\n3. 游客攻略图。\n画面：第一次来怎么玩，包含路线顺序、拍照点、停留时间、适合人群。\n4. 节气主题海报。\n画面：古城夜色、灯笼、节气氛围、适合线上传播。\n画面结构：\n- 这是一组最终内容素材拼版，不要出现制作过程。\n- 每个素材都要能单独裁切使用。\n- 可以使用短中文标题，例如“夜游路线”“打卡点”“游玩攻略”“节气海报”。\n- 不要出现具体城市名和真实景区名。\n风格：\n文旅内容素材，温暖、有烟火气、有文化感，但不要太古风玄幻。\n色彩：\n夜蓝、暖灯黄、米白、朱红、深灰。\n限制：\n不要真实景区 logo，不要乱码文字，不要过度仙侠风，不要空洞风景图，要体现内容资产包。",
+  "description": "Generates a set of cultural tourism content assets for an ancient city night tour, including a route map, cover images for key attractions, a tourist guide, and seasonal theme posters, designed for multi-platform promotion.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/4bbf70ac8e12f92d5cf51598102098c2.png"
+  ],
+  "categories": [
+    "poster-flyer",
+    "illustration",
+    "infographic-edu-visual"
+  ],
+  "tags": [
+    "cultural-tourism",
+    "night-tour",
+    "marketing-assets",
+    "illustration",
+    "promotional-material"
+  ],
+  "style": "Cultural tourism content, warm, with a sense of local life, cultural, but not overly ancient or fantastical.",
+  "aspectRatio": "4:3",
+  "language": "zh",
+  "authorName": "zhm20220917",
+  "authorLink": "https://x.com/zhm20220917",
+  "sourceLink": "https://x.com/zhm20220917/status/2046785295983710312?s=46",
+  "sourcePlatform": "x",
+  "sourceExternalId": "d670602c4de9d73de1e0c5bb",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/Image-2发布后普通人年入 50 万的 10 个机会【万字指南】.md",
+  "cleanedAt": "2026-04-23T09:51:27.381Z"
+}

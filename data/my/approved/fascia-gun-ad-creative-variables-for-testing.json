@@ -1,0 +1,34 @@
+{
+  "id": "my-aec8f009c9ffd08328eb8a7d",
+  "title": "Fascia Gun Ad Creative Variables for Testing",
+  "prompt": "请直接生成筋膜枪产品可用于投放测试的广告素材，不要生成“服务展示页”，不要出现办公室里的人看素材、数据看板或案例说明画面。\n业务背景：\n客户是一家销售筋膜枪的中小电商商家，原来只有一套产品白底图，投放点击率低。现在需要围绕同一款筋膜枪，生成多种可测试的广告素材方向。\n生成目标：\n请生成一张 5 宫格广告素材拼版，每一格都是可以单独裁切用于短视频首帧或信息流广告的素材。\n第 1 张：办公室久坐肩颈放松。\n画面：白领在办公桌旁使用筋膜枪放松肩颈，背景是干净办公场景。\n卖点表达：久坐人群、肩颈压力、随手放松。\n第 2 张：健身后肌肉放松。\n画面：健身包、瑜伽垫、运动水杯、筋膜枪产品特写。\n卖点表达：运动后恢复、便携、适合健身人群。\n第 3 张：送父母的健康礼物。\n画面：温暖家庭客厅，礼盒包装，父母使用场景但不要夸张医疗效果。\n卖点表达：实用礼物、长辈日常放松。\n第 4 张：居家低噪音使用。\n画面：夜晚家中沙发、台灯、安静使用产品，不打扰家人。\n卖点表达：低噪音、居家友好。\n第 5 张：下班后快速放松。\n画面：年轻人回到家，放下电脑包，在沙发上使用筋膜枪。\n卖点表达：下班疲惫、快速放松、轻松恢复状态。\n画面结构：\n- 每张素材都要有清晰产品主体。\n- 每张素材预留标题区和卖点区。\n- 不要出现真实品牌名。\n- 中文文字尽量少，允许使用短标题占位，例如“久坐放松”“运动恢复”“送父母”“低噪使用”“下班放松”。\n素材风格：\n电商广告视觉、干净、明亮、专业，有测试感和增长感。\n色彩：\n白色、浅灰、科技蓝、青绿色、少量橙色强调。\n限制：\n不要出现夸张医疗效果，不要出现“治愈”“康复”等医疗承诺，不要出现真实品牌名，不要出现难以识别的中文，不要使用平台 logo。",
+  "description": "Generates five distinct ad creatives for a fascia gun, targeting different user pain points and scenarios for A/B testing in ad campaigns. Includes office relaxation, post-workout recovery, gift ideas, quiet home use, and post-work unwinding.",
+  "imageUrls": [
+    "https://img.img2ai.org/img2ai-prompts/22595abbc4b49510ac6f000936816442.png"
+  ],
+  "categories": [
+    "product-marketing",
+    "ecommerce-main-image",
+    "social-media-post"
+  ],
+  "tags": [
+    "fascia-gun",
+    "advertising",
+    "ecommerce",
+    "product",
+    "health-wellness"
+  ],
+  "style": "E-commerce advertising visuals, clean, bright, professional, with a sense of testing and growth.",
+  "aspectRatio": "4:3",
+  "language": "zh",
+  "authorName": "zhm20220917",
+  "authorLink": "https://x.com/zhm20220917",
+  "sourceLink": "https://x.com/zhm20220917/status/2046785295983710312?s=46",
+  "sourcePlatform": "x",
+  "sourceExternalId": "aec8f009c9ffd08328eb8a7d",
+  "needReferenceImages": false,
+  "isFeatured": false,
+  "licenseStatus": "allowed",
+  "rawNotePath": "/Users/chdj/project/site-projects/img2ai-research-vault/00-inbox/Image-2发布后普通人年入 50 万的 10 个机会【万字指南】.md",
+  "cleanedAt": "2026-04-23T09:51:27.382Z"
+}
